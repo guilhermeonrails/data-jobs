@@ -528,7 +528,7 @@ work_year,job_title,job_category,salary_currency,salary,salary_in_usd,employee_r
 2025.0,Machine Learning Engineer,Machine Learning,YER,104041316.67,415416.67,Yemen,Mid,Full-time,Remote,Sana'a,Small
 2025.0,Zen Algorithm Architect,Zen Computing,USD,28750.0,28750.0,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
 2025.0,Yin Yang Data Engineer,Balance Computing,USD,31250.0,31250.0,United States,Senior,Full-time,Remote,"Austin, TX",Large
-2025.0,Senior Data Scientist,Data Science,LBP,20708333333.33,137500.0,Lebanon,Senior,Full-time,In-person,Beirut,Medium
+2025.0,Senior Data Scientist,Data Science,LBP,20708.33,137500.0,Lebanon,Senior,Full-time,In-person,Beirut,Medium
 2025.0,Data Scientist,Data Science,JOD,40416.67,56916.67,Jordan,Entry,Full-time,Hybrid,Amman,Medium
 2025.0,Junior Data Scientist,Data Science,EUR,6250.0,6625.0,Monaco,Entry,Full-time,Remote,Monaco,Small
 2025.0,Mandala Algorithm Engineer,Mandala Computing,USD,28750.0,28750.0,United States,Senior,Full-time,Remote,"San Francisco, CA",Large
