@@ -1,0 +1,759 @@
+work_year,job_title,job_category,salary_currency,salary,salary_in_usd,employee_residence,experience_level,employment_type,work_setting,company_location,company_size
+2025.0,Data Scientist,Data Science,USD,12666.67,12666.67,United States,Entry,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,USD,14583.33,14583.33,United States,Mid,Full-time,Hybrid,"New York, NY",Large
+2025.0,Senior Data Scientist,Data Science,USD,16250.0,16250.0,United States,Senior,Full-time,In-person,"Seattle, WA",Large
+2025.0,Data Analyst,Data Analysis,USD,7208.33,7208.33,United States,Entry,Full-time,Remote,"Austin, TX",Medium
+2025.0,Principal Data Scientist,Data Science,USD,20250.0,20250.0,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,AI Engineer,Artificial Intelligence,USD,15833.33,15833.33,United States,Mid,Full-time,Remote,"Boston, MA",Large
+2025.0,Data Engineer,Data Engineering,USD,10416.67,10416.67,United States,Mid,Full-time,In-person,"Chicago, IL",Medium
+2025.0,Business Intelligence Analyst,Business Intelligence,USD,6500.0,6500.0,United States,Entry,Full-time,Hybrid,"Denver, CO",Medium
+2025.0,Quantitative Analyst,Quantitative Analysis,USD,13750.0,13750.0,United States,Mid,Full-time,In-person,"New York, NY",Large
+2025.0,Data Architect,Data Architecture,USD,15833.33,15833.33,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,EUR,6250.0,6625.0,Germany,Mid,Full-time,Remote,Munich,Medium
+2025.0,Data Scientist,Data Science,GBP,5583.33,7000.0,United Kingdom,Mid,Full-time,Hybrid,London,Large
+2025.0,Senior Data Analyst,Data Analysis,CAD,7916.67,5833.33,Canada,Senior,Full-time,Remote,Toronto,Medium
+2025.0,AI Specialist,Artificial Intelligence,USD,17083.33,17083.33,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Junior Data Scientist,Data Science,USD,,9750.0,United States,Entry,Full-time,Remote,"Portland, OR",Small
+2025.0,Big Data Engineer,Data Engineering,USD,12083.33,12083.33,United States,Mid,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,NLP Specialist,Natural Language Processing,USD,14166.67,14166.67,United States,Mid,Full-time,Remote,"New York, NY",Large
+2025.0,Data Scientist,Data Science,CHF,10000.0,11916.67,Switzerland,Mid,Full-time,In-person,Zurich,Large
+2025.0,Machine Learning Engineer,Machine Learning,USD,13166.67,13166.67,United States,Mid,Contract,Remote,"Los Angeles, CA",Medium
+2025.0,Senior Data Engineer,Data Engineering,USD,13750.0,13750.0,United States,Senior,Full-time,Hybrid,"Austin, TX",Large
+2025.0,Data Analyst,Data Analysis,EUR,4583.33,4858.33,Germany,Entry,Full-time,Remote,Berlin,Medium
+2025.0,Chief Data Officer,Data Leadership,USD,23750.0,23750.0,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Research Scientist,Research,USD,15000.0,15000.0,United States,Senior,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Data Scientist,Data Science,GBP,4333.33,5433.33,United Kingdom,Entry,Full-time,Remote,Manchester,Small
+2025.0,Machine Learning Engineer,Machine Learning,CAD,10833.33,7983.33,Canada,Mid,Full-time,Hybrid,Vancouver,Medium
+2025.0,Senior Business Intelligence Analyst,Business Intelligence,USD,8750.0,,United States,Senior,Full-time,In-person,"Chicago, IL",Medium
+2025.0,Data Scientist,Data Science,USD,11833.33,11833.33,United States,Mid,Full-time,Remote,"Miami, FL",Medium
+2025.0,AI Research Engineer,Artificial Intelligence,USD,16250.0,16250.0,United States,Senior,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Junior Data Analyst,Data Analysis,USD,5666.67,5666.67,United States,Entry,Full-time,Remote,"Phoenix, AZ",Small
+2025.0,Data Engineering Manager,Data Engineering,USD,18333.33,18333.33,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,EUR,7083.33,7508.33,Netherlands,Mid,Full-time,Hybrid,Amsterdam,Large
+2025.0,Data Scientist,Data Science,AUD,9166.67,6050.0,Australia,Mid,Full-time,Remote,Sydney,Medium
+2025.0,Senior AI Engineer,Artificial Intelligence,USD,18750.0,18750.0,United States,Senior,Full-time,Hybrid,"New York, NY",Large
+2025.0,Data Analyst,Data Analysis,CAD,6250.0,4608.33,Canada,Entry,Part-time,Remote,Montreal,Small
+2025.0,Computer Vision Engineer,Computer Vision,USD,15416.67,15416.67,United States,Mid,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Data Scientist,Data Science,USD,10666.67,10666.67,United States,Entry,Full-time,Hybrid,"Atlanta, GA",Medium
+2025.0,Machine Learning Engineer,Machine Learning,USD,17666.67,17666.67,United States,Senior,Full-time,Remote,"Austin, TX",Large
+2025.0,Business Data Analyst,Business Intelligence,GBP,3750.0,4708.33,United Kingdom,Entry,Full-time,In-person,Birmingham,Small
+2025.0,Data Science Manager,Data Science,USD,20000.0,20000.0,United States,Senior,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Junior Machine Learning Engineer,Machine Learning,USD,8750.0,8750.0,United States,Entry,Full-time,Remote,"Denver, CO",Medium
+2025.0,Senior Data Architect,Data Architecture,USD,17500.0,17500.0,United States,Senior,Full-time,In-person,"New York, NY",Large
+2025.0,Data Scientist,Data Science,EUR,5666.67,6008.33,France,Mid,Full-time,Hybrid,Paris,Medium
+2025.0,AI Product Manager,Product Management,USD,14583.33,14583.33,United States,Mid,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Data Engineer,Data Engineering,USD,8166.67,8166.67,United States,Entry,Contract,Remote,"Nashville, TN",Small
+2025.0,Senior Quantitative Analyst,Quantitative Analysis,USD,16250.0,16250.0,United States,Senior,Full-time,In-person,"New York, NY",Large
+2025.0,Data Scientist,Data Science,SGD,7916.67,5866.67,Singapore,Mid,Full-time,Hybrid,Singapore,Large
+2025.0,Machine Learning Engineer,Machine Learning,USD,13916.67,13916.67,United States,Mid,Full-time,Remote,"Portland, OR",Medium
+2025.0,Data Analytics Consultant,Data Analysis,USD,10416.67,10416.67,United States,Mid,Contract,Remote,"Dallas, TX",Medium
+2025.0,Deep Learning Engineer,Deep Learning,USD,16666.67,16666.67,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Data Scientist,Data Science,INR,150000.0,1791.67,India,Mid,Full-time,Remote,Bangalore,Large
+2025.0,Senior Data Scientist,Data Science,USD,17916.67,17916.67,United States,Senior,Full-time,In-person,"Boston, MA",Large
+2025.0,Data Science Intern,Data Science,USD,6250.0,6250.0,United States,Entry,Full-time,Remote,"San Jose, CA",Large
+2025.0,MLOps Engineer,Machine Learning Operations,USD,12916.67,12916.67,United States,Mid,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Senior Data Analyst,Data Analysis,USD,8250.0,8250.0,United States,Senior,Full-time,In-person,"New York, NY",Medium
+2025.0,Data Scientist,Data Science,EUR,5166.67,5475.0,Spain,Mid,Full-time,Remote,Madrid,Medium
+2025.0,AI Research Scientist,Artificial Intelligence,USD,19166.67,19166.67,United States,Senior,Full-time,Hybrid,"Palo Alto, CA",Large
+2025.0,Junior Data Engineer,Data Engineering,USD,7916.67,7916.67,United States,Entry,Full-time,Remote,"Charlotte, NC",Medium
+2025.0,Statistical Analyst,Statistics,CAD,7083.33,5216.67,Canada,Mid,Full-time,In-person,Calgary,Small
+2025.0,Data Visualization Specialist,Data Visualization,USD,9166.67,9166.67,United States,Mid,Full-time,Hybrid,"Minneapolis, MN",Medium
+2025.0,Machine Learning Engineer,Machine Learning,GBP,6250.0,7833.33,United Kingdom,Senior,Full-time,Remote,Edinburgh,Large
+2025.0,Data Science Consultant,Data Science,USD,12083.33,12083.33,United States,Mid,Contract,Remote,"Houston, TX",Medium
+2025.0,Senior AI Engineer,Artificial Intelligence,EUR,7916.67,8391.67,Germany,Senior,Full-time,Hybrid,Frankfurt,Large
+2025.0,Business Data Scientist,Data Science,USD,11250.0,11250.0,United States,Mid,Full-time,In-person,"Philadelphia, PA",Large
+2025.0,Data Mining Specialist,Data Mining,AUD,7916.67,5225.0,Australia,Mid,Full-time,Remote,Melbourne,Medium
+2025.0,Senior Machine Learning Engineer,Machine Learning,USD,17083.33,17083.33,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Junior Business Analyst,Business Intelligence,USD,6000.0,6000.0,United States,Entry,Full-time,Remote,"Tampa, FL",Small
+2025.0,Data Platform Engineer,Data Engineering,USD,13750.0,13750.0,United States,Mid,Full-time,In-person,"Austin, TX",Large
+2025.0,Predictive Analytics Specialist,Predictive Analytics,USD,10416.67,10416.67,United States,Mid,Full-time,Hybrid,"San Diego, CA",Medium
+2025.0,Data Scientist,Data Science,JPY,708333.33,4725.0,Japan,Mid,Full-time,In-person,Tokyo,Large
+2025.0,AI Product Specialist,Artificial Intelligence,USD,13333.33,13333.33,United States,Mid,Full-time,Remote,"Boston, MA",Large
+2025.0,Senior Data Architect,Data Architecture,CAD,12916.67,9516.67,Canada,Senior,Full-time,Hybrid,Ottawa,Large
+2025.0,Data Operations Analyst,Data Operations,USD,7333.33,7333.33,United States,Entry,Full-time,Remote,"Raleigh, NC",Medium
+2025.0,Machine Learning Researcher,Machine Learning,USD,15416.67,15416.67,United States,Senior,Full-time,In-person,"Stanford, CA",Large
+2025.0,Data Scientist,Data Science,SEK,54166.67,4983.33,Sweden,Mid,Full-time,Hybrid,Stockholm,Medium
+2025.0,AI Ethics Specialist,AI Ethics,USD,11666.67,11666.67,United States,Mid,Full-time,Remote,"Washington, DC",Large
+2025.0,Junior Data Scientist,Data Science,EUR,4000.0,4241.67,Italy,Entry,Full-time,In-person,Milan,Small
+2025.0,Data Strategy Manager,Data Strategy,USD,16250.0,16250.0,United States,Senior,Full-time,Hybrid,"Chicago, IL",Large
+2025.0,Computer Vision Specialist,Computer Vision,USD,14583.33,14583.33,United States,Mid,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Data Analyst,Data Analysis,NZD,7083.33,4250.0,New Zealand,Entry,Full-time,Hybrid,Auckland,Medium
+2025.0,Senior Business Intelligence Developer,Business Intelligence,USD,9583.33,9583.33,United States,Senior,Full-time,In-person,"Detroit, MI",Medium
+2025.0,Machine Learning Engineer,Machine Learning,USD,12333.33,12333.33,United States,Mid,Contract,Remote,"Salt Lake City, UT",Small
+2025.0,Data Science Lead,Data Science,USD,17500.0,17500.0,United States,Senior,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Analytics Engineer,Analytics,GBP,4833.33,6066.67,United Kingdom,Mid,Full-time,Remote,Bristol,Medium
+2025.0,Data Scientist,Data Science,BRL,15000.0,2500.0,Brazil,Mid,Full-time,In-person,São Paulo,Large
+2025.0,AI Solutions Architect,Artificial Intelligence,USD,18333.33,18333.33,United States,Senior,Full-time,Hybrid,"New York, NY",Large
+2025.0,Junior Analytics Consultant,Analytics,USD,6500.0,6500.0,United States,Entry,Part-time,Remote,"Orlando, FL",Small
+2025.0,Data Engineering Lead,Data Engineering,USD,15416.67,15416.67,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Quantitative Researcher,Quantitative Analysis,USD,14583.33,14583.33,United States,Mid,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Data Scientist,Data Science,KRW,6250000.0,4633.33,South Korea,Mid,Full-time,Remote,Seoul,Medium
+2025.0,Machine Learning Platform Engineer,Machine Learning,USD,14166.67,14166.67,United States,Mid,Full-time,In-person,"Austin, TX",Large
+2025.0,Senior Data Consultant,Data Science,CAD,10416.67,7675.0,Canada,Senior,Contract,Remote,Winnipeg,Medium
+2025.0,Data Product Manager,Product Management,USD,13750.0,13750.0,United States,Mid,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Applied Scientist,Applied Science,USD,15833.33,15833.33,United States,Senior,Full-time,Remote,"Seattle, WA",Large
+2025.0,Data Analyst,Data Analysis,MXN,70833.33,3541.67,Mexico,Entry,Full-time,In-person,Mexico City,Medium
+2025.0,AI Training Specialist,Artificial Intelligence,USD,11250.0,11250.0,United States,Mid,Full-time,Hybrid,"Atlanta, GA",Medium
+2025.0,Senior Statistical Modeler,Statistics,USD,12916.67,12916.67,United States,Senior,Full-time,Remote,"Minneapolis, MN",Large
+2025.0,Data Infrastructure Engineer,Data Engineering,EUR,6500.0,6891.67,Netherlands,Mid,Full-time,In-person,Rotterdam,Large
+2025.0,Machine Learning Engineer,Machine Learning,USD,13500.0,13500.0,United States,Mid,Full-time,Hybrid,"Denver, CO",Medium
+2025.0,Data Science Director,Data Science,USD,22916.67,22916.67,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Junior Data Analyst,Data Analysis,ZAR,37500.0,2066.67,South Africa,Entry,Full-time,Remote,Cape Town,Small
+2025.0,AI Research Engineer,Artificial Intelligence,USD,16500.0,16500.0,United States,Senior,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Data Governance Specialist,Data Governance,USD,9833.33,9833.33,United States,Mid,Full-time,Remote,"Columbus, OH",Medium
+2025.0,Machine Learning Engineer,Machine Learning,NOK,70833.33,6541.67,Norway,Mid,Full-time,Hybrid,Oslo,Large
+2025.0,Senior Data Scientist,Data Science,USD,15666.67,15666.67,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Data Quality Analyst,Data Quality,EUR,4333.33,4591.67,Belgium,Entry,Full-time,Remote,Brussels,Medium
+2025.0,AI Safety Researcher,AI Safety,USD,17083.33,17083.33,United States,Senior,Full-time,Hybrid,"Berkeley, CA",Large
+2025.0,Junior Machine Learning Engineer,Machine Learning,USD,9000.0,9000.0,United States,Entry,Full-time,Remote,"Pittsburgh, PA",Medium
+2025.0,Data Science Trainer,Data Science,GBP,5166.67,6483.33,United Kingdom,Mid,Contract,In-person,Cambridge,Small
+2025.0,Bioinformatics Analyst,Bioinformatics,USD,10416.67,10416.67,United States,Mid,Full-time,Hybrid,"San Diego, CA",Large
+2025.0,Data Scientist,Data Science,DKK,43333.33,6266.67,Denmark,Mid,Full-time,Remote,Copenhagen,Medium
+2025.0,Machine Learning Consultant,Machine Learning,USD,13750.0,13750.0,United States,Senior,Contract,Remote,"Nashville, TN",Small
+2025.0,Senior Analytics Manager,Analytics,CAD,12083.33,8900.0,Canada,Senior,Full-time,Hybrid,Edmonton,Large
+2025.0,Data Privacy Officer,Data Privacy,USD,11250.0,11250.0,United States,Mid,Full-time,In-person,"Washington, DC",Large
+2025.0,Research Data Scientist,Research,AUD,9583.33,6325.0,Australia,Senior,Full-time,Remote,Brisbane,Medium
+2025.0,AI Model Validator,AI Validation,USD,12083.33,12083.33,United States,Mid,Full-time,Hybrid,"New York, NY",Large
+2025.0,Junior Data Analyst,Data Analysis,PLN,15000.0,3708.33,Poland,Entry,Full-time,In-person,Warsaw,Medium
+2025.0,Data Science Manager,Data Science,USD,18750.0,18750.0,United States,Senior,Full-time,Remote,"Austin, TX",Large
+2025.0,Geospatial Data Analyst,Geospatial Analysis,USD,7916.67,7916.67,United States,Mid,Full-time,Hybrid,"Boulder, CO",Medium
+2025.0,Machine Learning Engineer,Machine Learning,ILS,35000.0,9583.33,Israel,Mid,Full-time,In-person,Tel Aviv,Large
+2025.0,Data Storyteller,Data Communication,USD,8750.0,8750.0,United States,Mid,Full-time,Remote,"Portland, OR",Small
+2025.0,Senior Data Engineer,Data Engineering,CHF,11250.0,13416.67,Switzerland,Senior,Full-time,Hybrid,Geneva,Large
+2025.0,Fraud Detection Analyst,Fraud Detection,USD,7666.67,7666.67,United States,Entry,Full-time,In-person,"Phoenix, AZ",Medium
+2025.0,AI Product Owner,Product Management,EUR,7333.33,7775.0,Germany,Mid,Full-time,Remote,Hamburg,Large
+2025.0,Data Scientist,Data Science,CZK,120833.33,5233.33,Czech Republic,Mid,Full-time,Hybrid,Prague,Medium
+2025.0,Machine Learning Operations Engineer,MLOps,USD,13166.67,13166.67,United States,Mid,Full-time,In-person,"Seattle, WA",Large
+2025.0,Junior Business Intelligence Analyst,Business Intelligence,CAD,5666.67,4175.0,Canada,Entry,Part-time,Remote,Halifax,Small
+2025.0,Data Architecture Consultant,Data Architecture,USD,15416.67,15416.67,United States,Senior,Contract,Remote,"Dallas, TX",Medium
+2025.0,Computational Biologist,Computational Biology,USD,11833.33,11833.33,United States,Mid,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Data Scientist,Data Science,HUF,1541666.67,4016.67,Hungary,Entry,Full-time,In-person,Budapest,Medium
+2025.0,AI Governance Specialist,AI Governance,USD,12916.67,12916.67,United States,Mid,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Senior Quantitative Developer,Quantitative Development,GBP,7916.67,9933.33,United Kingdom,Senior,Full-time,Hybrid,London,Large
+2025.0,Data Pipeline Engineer,Data Engineering,USD,10666.67,10666.67,United States,Mid,Full-time,In-person,"Chicago, IL",Medium
+2025.0,Machine Learning Engineer,Machine Learning,THB,154166.67,4400.0,Thailand,Mid,Full-time,Remote,Bangkok,Large
+2025.0,Customer Analytics Specialist,Customer Analytics,USD,9583.33,9583.33,United States,Mid,Full-time,Hybrid,"Atlanta, GA",Medium
+2025.0,Data Science Evangelist,Data Science,USD,11500.0,11500.0,United States,Mid,Full-time,Remote,"San Jose, CA",Large
+2025.0,Junior Data Engineer,Data Engineering,EUR,3750.0,3975.0,Portugal,Entry,Full-time,In-person,Lisbon,Small
+2025.0,AI Research Director,Artificial Intelligence,USD,24583.33,24583.33,United States,Senior,Full-time,Hybrid,"Palo Alto, CA",Large
+2025.0,Marketing Data Analyst,Marketing Analytics,USD,6833.33,6833.33,United States,Entry,Full-time,Remote,"Milwaukee, WI",Medium
+2025.0,Data Scientist,Data Science,TWD,137500.0,4208.33,Taiwan,Mid,Full-time,In-person,Taipei,Large
+2025.0,Machine Learning Platform Architect,Machine Learning,USD,16250.0,16250.0,United States,Senior,Full-time,Hybrid,"Austin, TX",Large
+2025.0,Data Compliance Officer,Data Compliance,CAD,8750.0,6450.0,Canada,Mid,Full-time,Remote,Quebec City,Medium
+2025.0,Sports Analytics Specialist,Sports Analytics,USD,8166.67,8166.67,United States,Mid,Full-time,In-person,"New York, NY",Small
+2025.0,Senior AI Consultant,Artificial Intelligence,AUD,12083.33,7975.0,Australia,Senior,Contract,Remote,Perth,Medium
+2025.0,Data Scientist,Data Science,RUB,350000.0,3625.0,Russia,Entry,Full-time,Hybrid,Moscow,Large
+2025.0,Financial Data Analyst,Financial Analytics,USD,9000.0,9000.0,United States,Mid,Full-time,In-person,"Charlotte, NC",Large
+2025.0,Machine Learning Engineer,Machine Learning,USD,14333.33,14333.33,United States,Mid,Full-time,Remote,"San Francisco, CA",Medium
+2025.0,Data Warehouse Specialist,Data Warehousing,GBP,5666.67,7116.67,United Kingdom,Mid,Full-time,Hybrid,Glasgow,Medium
+2025.0,AI Ethics Consultant,AI Ethics,USD,12333.33,12333.33,United States,Mid,Contract,Remote,"Boston, MA",Small
+2025.0,Data Scientist,Data Science,TRY,104166.67,3066.67,Turkey,Entry,Full-time,In-person,Istanbul,Medium
+2025.0,Senior Data Product Manager,Product Management,USD,17083.33,17083.33,United States,Senior,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Healthcare Data Analyst,Healthcare Analytics,USD,7416.67,7416.67,United States,Entry,Full-time,Remote,"Indianapolis, IN",Large
+2025.0,Edge AI Engineer,Edge Computing,USD,14833.33,14833.33,United States,Mid,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Data Scientist,Data Science,ARS,2375000.0,2375.0,Argentina,Entry,Full-time,Remote,Buenos Aires,Medium
+2025.0,Quantum Machine Learning Researcher,Quantum Computing,USD,20416.67,20416.67,United States,Senior,Full-time,In-person,"Boston, MA",Large
+2025.0,Data Mesh Architect,Data Architecture,EUR,7666.67,8125.0,Austria,Senior,Full-time,Hybrid,Vienna,Large
+2025.0,Junior Data Scientist,Data Science,CLP,3500000.0,3600.0,Chile,Entry,Full-time,Remote,Santiago,Medium
+2025.0,AI Alignment Researcher,AI Safety,USD,17916.67,17916.67,United States,Senior,Full-time,Remote,"Berkeley, CA",Large
+2025.0,Data Observability Engineer,Data Engineering,USD,11833.33,11833.33,United States,Mid,Full-time,Hybrid,"Denver, CO",Medium
+2025.0,Machine Learning Engineer,Machine Learning,PHP,237500.0,4233.33,Philippines,Mid,Full-time,In-person,Manila,Large
+2025.0,Conversational AI Developer,Natural Language Processing,USD,13750.0,13750.0,United States,Mid,Full-time,Remote,"Seattle, WA",Large
+2025.0,Data Science Researcher,Research,CHF,9833.33,11725.0,Switzerland,Mid,Full-time,Hybrid,Basel,Medium
+2025.0,Climate Data Analyst,Environmental Analytics,USD,7916.67,7916.67,United States,Entry,Full-time,Remote,"Boulder, CO",Small
+2025.0,Senior MLOps Engineer,Machine Learning Operations,GBP,7083.33,8891.67,United Kingdom,Senior,Full-time,In-person,London,Large
+2025.0,Data Scientist,Data Science,COP,15416666.67,3525.0,Colombia,Mid,Full-time,Hybrid,Bogotá,Medium
+2025.0,Federated Learning Engineer,Federated Learning,USD,15666.67,15666.67,United States,Mid,Full-time,Remote,"Austin, TX",Large
+2025.0,Junior Analytics Engineer,Analytics,EUR,4000.0,4241.67,Ireland,Entry,Full-time,In-person,Dublin,Medium
+2025.0,Data Monetization Specialist,Data Strategy,USD,12916.67,12916.67,United States,Mid,Full-time,Hybrid,"New York, NY",Large
+2025.0,Robotics Data Scientist,Robotics,USD,14333.33,14333.33,United States,Mid,Full-time,In-person,"Pittsburgh, PA",Large
+2025.0,Data Scientist,Data Science,VND,104166666.67,4183.33,Vietnam,Entry,Full-time,Remote,Ho Chi Minh City,Medium
+2025.0,AI Fairness Engineer,AI Ethics,USD,13166.67,13166.67,United States,Mid,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Senior Data Strategist,Data Strategy,CAD,11500.0,8475.0,Canada,Senior,Full-time,Remote,Vancouver,Large
+2025.0,Synthetic Data Engineer,Data Engineering,USD,12333.33,12333.33,United States,Mid,Full-time,In-person,"Boston, MA",Medium
+2025.0,Machine Learning Engineer,Machine Learning,MYR,16250.0,3633.33,Malaysia,Mid,Full-time,Hybrid,Kuala Lumpur,Large
+2025.0,Data Lineage Specialist,Data Governance,USD,10416.67,10416.67,United States,Mid,Full-time,Remote,"Chicago, IL",Medium
+2025.0,Autonomous Vehicle Data Scientist,Autonomous Systems,USD,16250.0,16250.0,United States,Senior,Full-time,Hybrid,"Detroit, MI",Large
+2025.0,Junior Data Analyst,Data Analysis,EGP,70833.33,2266.67,Egypt,Entry,Full-time,In-person,Cairo,Medium
+2025.0,Graph Data Scientist,Graph Analytics,USD,14000.0,14000.0,United States,Mid,Full-time,Remote,"San Jose, CA",Large
+2025.0,Data Science Architect,Data Science,AUD,11250.0,7425.0,Australia,Senior,Full-time,Hybrid,Adelaide,Medium
+2025.0,Machine Learning Engineer,Machine Learning,IDR,65416666.67,4150.0,Indonesia,Entry,Full-time,In-person,Jakarta,Large
+2025.0,Causal Inference Scientist,Causal Analysis,USD,15416.67,15416.67,United States,Senior,Full-time,Remote,"Stanford, CA",Large
+2025.0,Data Ethics Officer,Data Ethics,EUR,6500.0,6891.67,Finland,Mid,Full-time,Hybrid,Helsinki,Large
+2025.0,Time Series Analyst,Time Series Analysis,USD,9833.33,9833.33,United States,Mid,Full-time,In-person,"Minneapolis, MN",Medium
+2025.0,Senior AI Product Manager,Product Management,ILS,40416.67,11083.33,Israel,Senior,Full-time,Remote,Haifa,Large
+2025.0,Data Scientist,Data Science,PKR,708333.33,2541.67,Pakistan,Entry,Full-time,Hybrid,Karachi,Medium
+2025.0,Reinforcement Learning Engineer,Reinforcement Learning,USD,16500.0,16500.0,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Junior Data Engineer,Data Engineering,RON,15416.67,3316.67,Romania,Entry,Full-time,Remote,Bucharest,Small
+2025.0,Data Catalog Manager,Data Management,USD,11250.0,11250.0,United States,Mid,Full-time,Hybrid,"Atlanta, GA",Medium
+2025.0,IoT Data Analyst,IoT Analytics,USD,9000.0,9000.0,United States,Mid,Full-time,Remote,"Austin, TX",Medium
+2025.0,Machine Learning Engineer,Machine Learning,BGN,7916.67,4400.0,Bulgaria,Mid,Full-time,In-person,Sofia,Medium
+2025.0,Explainable AI Specialist,Explainable AI,USD,14583.33,14583.33,United States,Mid,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Data Science Consultant,Data Science,NZD,10416.67,6250.0,New Zealand,Senior,Contract,Remote,Wellington,Small
+2025.0,Multimodal AI Engineer,Multimodal AI,USD,15666.67,15666.67,United States,Mid,Full-time,In-person,"Palo Alto, CA",Large
+2025.0,Senior Data Analyst,Data Analysis,HRK,32083.33,4516.67,Croatia,Senior,Full-time,Hybrid,Zagreb,Medium
+2025.0,Data Scientist,Data Science,LKR,404166.67,1316.67,Sri Lanka,Entry,Full-time,Remote,Colombo,Small
+2025.0,Neural Architecture Search Engineer,Neural Networks,USD,17083.33,17083.33,United States,Senior,Full-time,Remote,"Boston, MA",Large
+2025.0,Data Transformation Specialist,Data Engineering,CAD,8166.67,6016.67,Canada,Mid,Full-time,In-person,Saskatoon,Medium
+2025.0,Recommendation Systems Engineer,Recommendation Systems,USD,13750.0,13750.0,United States,Mid,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,UAH,154166.67,3708.33,Ukraine,Mid,Full-time,Remote,Kyiv,Medium
+2025.0,Data Science Team Lead,Data Science,USD,17916.67,17916.67,United States,Senior,Full-time,In-person,"New York, NY",Large
+2025.0,Junior Business Analyst,Business Intelligence,LTL,4000.0,4000.0,Lithuania,Entry,Full-time,Hybrid,Vilnius,Small
+2025.0,Anomaly Detection Specialist,Anomaly Detection,USD,12083.33,12083.33,United States,Mid,Full-time,Remote,"Chicago, IL",Medium
+2025.0,Neuromorphic Computing Specialist,Neuromorphic Computing,USD,18750.0,18750.0,United States,Senior,Full-time,In-person,"San Jose, CA",Large
+2025.0,Data Scientist,Data Science,BDT,237500.0,2208.33,Bangladesh,Entry,Full-time,Remote,Dhaka,Medium
+2025.0,Digital Twin Data Engineer,Digital Twin,USD,14000.0,14000.0,United States,Mid,Full-time,Hybrid,"Detroit, MI",Large
+2025.0,Blockchain Data Analyst,Blockchain Analytics,EUR,5666.67,6008.33,Estonia,Mid,Full-time,Remote,Tallinn,Medium
+2025.0,Junior Data Scientist,Data Science,GEL,7083.33,2600.0,Georgia,Entry,Full-time,In-person,Tbilisi,Small
+2025.0,Swarm Intelligence Researcher,Swarm Intelligence,USD,16250.0,16250.0,United States,Senior,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Data Fabric Architect,Data Architecture,USD,15416.67,15416.67,United States,Senior,Full-time,Remote,"Austin, TX",Large
+2025.0,Machine Learning Engineer,Machine Learning,KZT,1041666.67,2150.0,Kazakhstan,Mid,Full-time,In-person,Almaty,Medium
+2025.0,Metaverse Data Scientist,Metaverse Analytics,USD,14583.33,14583.33,United States,Mid,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Data Science Instructor,Education,CAD,7333.33,5408.33,Canada,Mid,Part-time,Remote,Toronto,Small
+2025.0,Cognitive Computing Engineer,Cognitive Computing,USD,15666.67,15666.67,United States,Mid,Full-time,In-person,"Armonk, NY",Large
+2025.0,Senior Data Analyst,Data Analysis,ISK,708333.33,5100.0,Iceland,Senior,Full-time,Hybrid,Reykjavik,Medium
+2025.0,Data Scientist,Data Science,NPR,270833.33,2008.33,Nepal,Entry,Full-time,Remote,Kathmandu,Small
+2025.0,Homomorphic Encryption Specialist,Privacy Computing,USD,17916.67,17916.67,United States,Senior,Full-time,Remote,"Seattle, WA",Large
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,4333.33,4591.67,Latvia,Entry,Full-time,In-person,Riga,Medium
+2025.0,Spatial Data Scientist,Geospatial Analytics,USD,11250.0,11250.0,United States,Mid,Full-time,Hybrid,"Boulder, CO",Medium
+2025.0,AI Chip Design Analyst,Hardware Analytics,USD,16250.0,16250.0,United States,Senior,Full-time,In-person,"Santa Clara, CA",Large
+2025.0,Data Scientist,Data Science,MMK,4875000.0,2325.0,Myanmar,Entry,Full-time,Remote,Yangon,Medium
+2025.0,Quantum Data Analyst,Quantum Computing,USD,13750.0,13750.0,United States,Mid,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Data Mesh Engineer,Data Architecture,GBP,6500.0,8158.33,United Kingdom,Mid,Full-time,Remote,Edinburgh,Large
+2025.0,Augmented Analytics Specialist,Augmented Analytics,USD,12333.33,12333.33,United States,Mid,Full-time,In-person,"Chicago, IL",Medium
+2025.0,Machine Learning Engineer,Machine Learning,AMD,40416.67,2375.0,Armenia,Mid,Full-time,Hybrid,Yerevan,Small
+2025.0,Data Democratization Lead,Data Strategy,USD,14583.33,14583.33,United States,Senior,Full-time,Remote,"New York, NY",Large
+2025.0,Biometric Data Scientist,Biometric Analytics,USD,13166.67,13166.67,United States,Mid,Full-time,Hybrid,"San Diego, CA",Large
+2025.0,Junior Data Engineer,Data Engineering,MKD,154166.67,2675.0,North Macedonia,Entry,Full-time,In-person,Skopje,Small
+2025.0,Tensor Processing Specialist,Deep Learning,USD,15416.67,15416.67,United States,Mid,Full-time,Remote,"Mountain View, CA",Large
+2025.0,Data Virtualization Engineer,Data Virtualization,USD,11833.33,11833.33,United States,Mid,Full-time,Hybrid,"Dallas, TX",Medium
+2025.0,Machine Learning Engineer,Machine Learning,JOD,3208.33,4525.0,Jordan,Mid,Full-time,In-person,Amman,Medium
+2025.0,Neuroinformatics Specialist,Neuroinformatics,USD,14000.0,14000.0,United States,Mid,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Data Science Evangelist,Data Science,AUD,9833.33,6491.67,Australia,Mid,Contract,Hybrid,Canberra,Medium
+2025.0,Adversarial ML Engineer,Adversarial ML,USD,14833.33,14833.33,United States,Mid,Full-time,In-person,"Boston, MA",Large
+2025.0,Senior Data Architect,Data Architecture,CHF,12083.33,14408.33,Switzerland,Senior,Full-time,Remote,Bern,Large
+2025.0,Data Scientist,Data Science,LBP,15416666.67,1025.0,Lebanon,Entry,Full-time,Hybrid,Beirut,Small
+2025.0,Probabilistic Programming Specialist,Probabilistic Programming,USD,16250.0,16250.0,United States,Senior,Full-time,Remote,"Stanford, CA",Large
+2025.0,Junior Business Intelligence Developer,Business Intelligence,EUR,3500.0,3708.33,Slovenia,Entry,Full-time,In-person,Ljubljana,Small
+2025.0,Data Lake Architect,Data Architecture,USD,13750.0,13750.0,United States,Senior,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Affective Computing Researcher,Affective Computing,USD,15416.67,15416.67,United States,Senior,Full-time,In-person,"Cambridge, MA",Large
+2025.0,Machine Learning Engineer,Machine Learning,ALL,404166.67,4041.67,Albania,Mid,Full-time,Remote,Tirana,Medium
+2025.0,Data Lineage Engineer,Data Governance,USD,11250.0,11250.0,United States,Mid,Full-time,Hybrid,"Austin, TX",Medium
+2025.0,Synthetic Biology Data Scientist,Synthetic Biology,USD,14583.33,14583.33,United States,Mid,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Junior Data Analyst,Data Analysis,BAM,7083.33,3850.0,Bosnia and Herzegovina,Entry,Full-time,In-person,Sarajevo,Small
+2025.0,Continual Learning Engineer,Continual Learning,USD,15666.67,15666.67,United States,Mid,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Data Mesh Product Owner,Product Management,GBP,7333.33,9208.33,United Kingdom,Mid,Full-time,Remote,Manchester,Medium
+2025.0,Machine Learning Engineer,Machine Learning,MNT,104166.67,3066.67,Mongolia,Entry,Full-time,In-person,Ulaanbaatar,Small
+2025.0,Causal AI Researcher,Causal AI,USD,17083.33,17083.33,United States,Senior,Full-time,Remote,"Berkeley, CA",Large
+2025.0,Data Governance Analyst,Data Governance,CAD,7666.67,5650.0,Canada,Entry,Full-time,Hybrid,Calgary,Medium
+2025.0,Embodied AI Engineer,Embodied AI,USD,16250.0,16250.0,United States,Senior,Full-time,In-person,"Pittsburgh, PA",Large
+2025.0,Senior Data Scientist,Data Science,MDL,237500.0,13066.67,Moldova,Senior,Full-time,Remote,Chisinau,Medium
+2025.0,Data Scientist,Data Science,AFN,237500.0,2708.33,Afghanistan,Entry,Full-time,Hybrid,Kabul,Small
+2025.0,Automated ML Engineer,AutoML,USD,14000.0,14000.0,United States,Mid,Full-time,Remote,"San Jose, CA",Large
+2025.0,Data Quality Engineer,Data Quality,EUR,4833.33,5125.0,Slovakia,Mid,Full-time,In-person,Bratislava,Medium
+2025.0,Distributed ML Architect,Distributed ML,USD,16250.0,16250.0,United States,Senior,Full-time,Hybrid,"Austin, TX",Large
+2025.0,Machine Learning Engineer,Machine Learning,RSD,404166.67,3683.33,Serbia,Mid,Full-time,Remote,Belgrade,Medium
+2025.0,Data Science Product Manager,Product Management,USD,15416.67,15416.67,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Junior Analytics Consultant,Analytics,EUR,3166.67,3358.33,Malta,Entry,Part-time,Remote,Valletta,Small
+2025.0,Federated Analytics Engineer,Federated Analytics,USD,14583.33,14583.33,United States,Mid,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Data Scientist,Data Science,CYP,4041.67,4041.67,Cyprus,Entry,Full-time,In-person,Nicosia,Small
+2025.0,Multi-Agent Systems Engineer,Multi-Agent Systems,USD,15666.67,15666.67,United States,Mid,Full-time,Remote,"Seattle, WA",Large
+2025.0,Senior Data Engineer,Data Engineering,LUX,7083.33,7083.33,Luxembourg,Senior,Full-time,Hybrid,Luxembourg City,Medium
+2025.0,Evolutionary Computation Specialist,Evolutionary Computing,USD,14833.33,14833.33,United States,Mid,Full-time,In-person,"Stanford, CA",Large
+2025.0,Photonic Computing Data Scientist,Photonic Computing,USD,19583.33,19583.33,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Data Scientist,Data Science,ETB,10416.67,2066.67,Ethiopia,Entry,Full-time,Remote,Addis Ababa,Medium
+2025.0,DNA Storage Engineer,DNA Computing,USD,17083.33,17083.33,United States,Senior,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Holographic Data Analyst,Holographic Computing,EUR,7916.67,8391.67,Netherlands,Mid,Full-time,Remote,Eindhoven,Large
+2025.0,Junior Data Scientist,Data Science,GHS,15416.67,2516.67,Ghana,Entry,Full-time,In-person,Accra,Small
+2025.0,Molecular ML Engineer,Molecular Computing,USD,16250.0,16250.0,United States,Mid,Full-time,Hybrid,"Cambridge, MA",Large
+2025.0,Data Mesh Evangelist,Data Architecture,USD,13750.0,13750.0,United States,Mid,Full-time,Remote,"Austin, TX",Medium
+2025.0,Machine Learning Engineer,Machine Learning,UZS,154166666.67,12375.0,Uzbekistan,Senior,Full-time,In-person,Tashkent,Large
+2025.0,Spatial Computing Data Scientist,Spatial Computing,USD,15416.67,15416.67,United States,Mid,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Data Science Philosopher,AI Philosophy,CAD,7916.67,5833.33,Canada,Mid,Part-time,Remote,Montreal,Small
+2025.0,Optical Neural Network Engineer,Optical Computing,USD,17916.67,17916.67,United States,Senior,Full-time,In-person,"Palo Alto, CA",Large
+2025.0,Senior Data Analyst,Data Analysis,TND,7083.33,2258.33,Tunisia,Senior,Full-time,Hybrid,Tunis,Medium
+2025.0,Data Scientist,Data Science,KES,320833.33,2483.33,Kenya,Entry,Full-time,Remote,Nairobi,Medium
+2025.0,Memristive Computing Specialist,Memristive Computing,USD,18750.0,18750.0,United States,Senior,Full-time,Remote,"San Jose, CA",Large
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,4000.0,4241.67,Luxembourg,Entry,Full-time,In-person,Luxembourg City,Medium
+2025.0,Topological Data Analyst,Topological Data Analysis,USD,14583.33,14583.33,United States,Mid,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Biocomputing Data Engineer,Biocomputing,USD,15666.67,15666.67,United States,Mid,Full-time,In-person,"San Diego, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,TZS,7083333.33,2791.67,Tanzania,Mid,Full-time,Remote,Dar es Salaam,Medium
+2025.0,Liquid Neural Network Engineer,Liquid Neural Networks,USD,16250.0,16250.0,United States,Mid,Full-time,Hybrid,"Cambridge, MA",Large
+2025.0,Data Sovereignty Specialist,Data Governance,AUD,10416.67,6875.0,Australia,Mid,Full-time,Remote,Canberra,Medium
+2025.0,Analog Computing Researcher,Analog Computing,USD,17083.33,17083.33,United States,Senior,Full-time,In-person,"Stanford, CA",Large
+2025.0,Senior Data Scientist,Data Science,MAD,40416.67,4041.67,Morocco,Senior,Full-time,Hybrid,Casablanca,Medium
+2025.0,Data Scientist,Data Science,UGX,10416666.67,2816.67,Uganda,Entry,Full-time,In-person,Kampala,Small
+2025.0,Spintronics Data Analyst,Spintronics,USD,15416.67,15416.67,United States,Mid,Full-time,Remote,"Austin, TX",Large
+2025.0,Junior Data Engineer,Data Engineering,EUR,3750.0,3975.0,Cyprus,Entry,Full-time,Hybrid,Limassol,Small
+2025.0,Reversible Computing Engineer,Reversible Computing,USD,17916.67,17916.67,United States,Senior,Full-time,In-person,"Mountain View, CA",Large
+2025.0,Data Mesh Architect,Data Architecture,GBP,7916.67,9933.33,United Kingdom,Senior,Full-time,Remote,Cambridge,Large
+2025.0,Machine Learning Engineer,Machine Learning,ZMW,40416.67,1541.67,Zambia,Entry,Full-time,In-person,Lusaka,Small
+2025.0,Adiabatic Computing Specialist,Adiabatic Computing,USD,18750.0,18750.0,United States,Senior,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Data Science Ethicist,AI Ethics,CAD,9000.0,6633.33,Canada,Mid,Contract,Remote,Vancouver,Medium
+2025.0,Superconducting ML Engineer,Superconducting Computing,USD,19583.33,19583.33,United States,Senior,Full-time,In-person,"Boston, MA",Large
+2025.0,Senior Data Architect,Data Architecture,CHF,12916.67,15408.33,Switzerland,Senior,Full-time,Hybrid,Zurich,Large
+2025.0,Data Scientist,Data Science,RWF,3208333.33,2375.0,Rwanda,Entry,Full-time,Remote,Kigali,Small
+2025.0,Plasmonics Data Researcher,Plasmonics,USD,16250.0,16250.0,United States,Senior,Full-time,Remote,"Stanford, CA",Large
+2025.0,Junior Business Analyst,Business Intelligence,EUR,3500.0,3708.33,Malta,Entry,Part-time,In-person,Valletta,Small
+2025.0,Metamaterial Computing Engineer,Metamaterial Computing,USD,17083.33,17083.33,United States,Mid,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Data Lineage Architect,Data Governance,USD,13750.0,13750.0,United States,Senior,Full-time,In-person,"Chicago, IL",Large
+2025.0,Machine Learning Engineer,Machine Learning,BWP,40416.67,2983.33,Botswana,Mid,Full-time,Remote,Gaborone,Medium
+2025.0,Crystalline Computing Specialist,Crystalline Computing,USD,17916.67,17916.67,United States,Senior,Full-time,Hybrid,"Palo Alto, CA",Large
+2025.0,Data Democratization Engineer,Data Strategy,AUD,9583.33,6325.0,Australia,Mid,Full-time,Remote,Darwin,Medium
+2025.0,Biomolecular Data Scientist,Biomolecular Computing,USD,15416.67,15416.67,United States,Mid,Full-time,In-person,"San Diego, CA",Large
+2025.0,Senior Data Analyst,Data Analysis,NAD,40416.67,2233.33,Namibia,Senior,Full-time,Hybrid,Windhoek,Small
+2025.0,Data Scientist,Data Science,SZL,40416.67,2233.33,Eswatini,Entry,Full-time,In-person,Mbabane,Small
+2025.0,Phononic Computing Engineer,Phononic Computing,USD,17083.33,17083.33,United States,Mid,Full-time,Remote,"Austin, TX",Large
+2025.0,Junior Data Scientist,Data Science,EUR,4333.33,4591.67,Monaco,Entry,Full-time,Hybrid,Monaco,Medium
+2025.0,Valleytronics Data Analyst,Valleytronics,USD,16250.0,16250.0,United States,Mid,Full-time,In-person,"Seattle, WA",Large
+2025.0,Data Fabric Engineer,Data Architecture,CAD,10416.67,7675.0,Canada,Mid,Full-time,Remote,Halifax,Medium
+2025.0,Machine Learning Engineer,Machine Learning,LSL,40416.67,2233.33,Lesotho,Entry,Full-time,Hybrid,Maseru,Small
+2025.0,Exascale Computing Data Scientist,Exascale Computing,USD,20416.67,20416.67,United States,Senior,Full-time,In-person,"Oak Ridge, TN",Large
+2025.0,Data Mesh Product Manager,Product Management,GBP,8166.67,10250.0,United Kingdom,Senior,Full-time,Remote,London,Large
+2025.0,Quantum Dot Computing Engineer,Quantum Dot Computing,USD,18750.0,18750.0,United States,Senior,Full-time,In-person,"San Jose, CA",Large
+2025.0,Data Scientist,Data Science,MGA,15416.67,3433.33,Madagascar,Entry,Full-time,Remote,Antananarivo,Medium
+2025.0,Bioelectronics Data Analyst,Bioelectronics,USD,16250.0,16250.0,United States,Mid,Full-time,Hybrid,"Boston, MA",Large
+2025.0,Atmospheric Data Engineer,Climate Computing,EUR,6500.0,6891.67,Norway,Mid,Full-time,Remote,Bergen,Medium
+2025.0,Junior Data Scientist,Data Science,MUR,154166.67,3458.33,Mauritius,Entry,Full-time,In-person,Port Louis,Small
+2025.0,Magnetoresistive ML Engineer,Magnetoresistive Computing,USD,17916.67,17916.67,United States,Senior,Full-time,Hybrid,"Austin, TX",Large
+2025.0,Data Mesh Consultant,Data Architecture,USD,14583.33,14583.33,United States,Senior,Contract,Remote,"Denver, CO",Medium
+2025.0,Machine Learning Engineer,Machine Learning,SCR,40416.67,2983.33,Seychelles,Mid,Full-time,In-person,Victoria,Small
+2025.0,Piezoelectric Computing Specialist,Piezoelectric Computing,USD,17083.33,17083.33,United States,Mid,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Data Science Futurist,Future Studies,CAD,9833.33,7250.0,Canada,Mid,Part-time,Remote,Toronto,Small
+2025.0,Ferroelectric Data Researcher,Ferroelectric Computing,USD,16250.0,16250.0,United States,Senior,Full-time,In-person,"Stanford, CA",Large
+2025.0,Senior Data Analyst,Data Analysis,DJF,708333.33,3983.33,Djibouti,Senior,Full-time,Hybrid,Djibouti City,Medium
+2025.0,Data Scientist,Data Science,KMF,154166.67,3291.67,Comoros,Entry,Full-time,Remote,Moroni,Small
+2025.0,Thermoelectric Computing Engineer,Thermoelectric Computing,USD,17916.67,17916.67,United States,Senior,Full-time,Remote,"Palo Alto, CA",Large
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,4333.33,4591.67,Andorra,Entry,Full-time,In-person,Andorra la Vella,Small
+2025.0,Multiferroic Data Analyst,Multiferroic Computing,USD,15416.67,15416.67,United States,Mid,Full-time,Hybrid,"Cambridge, MA",Large
+2025.0,Ocean Data Engineer,Marine Analytics,USD,10416.67,10416.67,United States,Mid,Full-time,In-person,"Woods Hole, MA",Medium
+2025.0,Machine Learning Engineer,Machine Learning,SOS,40416.67,4041.67,Somalia,Mid,Full-time,Remote,Mogadishu,Medium
+2025.0,Skyrmion Computing Specialist,Skyrmion Computing,USD,18750.0,18750.0,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Data Sovereignty Architect,Data Governance,AUD,11250.0,7425.0,Australia,Senior,Full-time,Remote,Alice Springs,Medium
+2025.0,Antiferromagnetic ML Engineer,Antiferromagnetic Computing,USD,17083.33,17083.33,United States,Mid,Full-time,In-person,"Austin, TX",Large
+2025.0,Senior Data Scientist,Data Science,ERN,40416.67,2708.33,Eritrea,Senior,Full-time,Hybrid,Asmara,Small
+2025.0,Data Scientist,Data Science,SLL,4041666.67,1958.33,Sierra Leone,Entry,Full-time,In-person,Freetown,Small
+2025.0,Magnetocaloric Computing Researcher,Magnetocaloric Computing,USD,17916.67,17916.67,United States,Senior,Full-time,Remote,"Boston, MA",Large
+2025.0,Junior Data Engineer,Data Engineering,EUR,4000.0,4241.67,San Marino,Entry,Full-time,Hybrid,San Marino,Small
+2025.0,Electrochromic Data Analyst,Electrochromic Computing,USD,15416.67,15416.67,United States,Mid,Full-time,In-person,"Seattle, WA",Large
+2025.0,Space Data Architect,Space Analytics,USD,16250.0,16250.0,United States,Senior,Full-time,Hybrid,"Houston, TX",Large
+2025.0,Machine Learning Engineer,Machine Learning,LRD,1541666.67,8208.33,Liberia,Senior,Full-time,Remote,Monrovia,Medium
+2025.0,Magnetoelectric Computing Engineer,Magnetoelectric Computing,USD,18750.0,18750.0,United States,Senior,Full-time,In-person,"Palo Alto, CA",Large
+2025.0,Data Science Anthropologist,Data Anthropology,CAD,7916.67,5833.33,Canada,Mid,Contract,Remote,Ottawa,Small
+2025.0,Flexoelectric Data Researcher,Flexoelectric Computing,USD,16250.0,16250.0,United States,Mid,Full-time,Hybrid,"Stanford, CA",Large
+2025.0,Senior Data Architect,Data Architecture,CHF,13750.0,16400.0,Switzerland,Senior,Full-time,Remote,Lausanne,Large
+2025.0,Data Scientist,Data Science,GNF,32083333.33,3708.33,Guinea,Entry,Full-time,In-person,Conakry,Medium
+2025.0,Magnetostrictive ML Engineer,Magnetostrictive Computing,USD,17083.33,17083.33,United States,Mid,Full-time,Remote,"Austin, TX",Large
+2025.0,Junior Business Analyst,Business Intelligence,EUR,3750.0,3975.0,Vatican City,Entry,Part-time,In-person,Vatican City,Small
+2025.0,Piezomagnetic Computing Specialist,Piezomagnetic Computing,USD,17916.67,17916.67,United States,Senior,Full-time,Hybrid,"San Jose, CA",Large
+2025.0,Quantum Sensing Data Engineer,Quantum Sensing,USD,15416.67,15416.67,United States,Mid,Full-time,In-person,"Boulder, CO",Large
+2025.0,Machine Learning Engineer,Machine Learning,GMD,40416.67,4041.67,Gambia,Mid,Full-time,Remote,Banjul,Small
+2025.0,Magnetoplasmonics Researcher,Magnetoplasmonics,USD,18750.0,18750.0,United States,Senior,Full-time,Hybrid,"Cambridge, MA",Large
+2025.0,Data Democratization Specialist,Data Strategy,AUD,10416.67,6875.0,Australia,Mid,Full-time,Remote,Hobart,Medium
+2025.0,Electroelastic Data Analyst,Electroelastic Computing,USD,15416.67,15416.67,United States,Mid,Full-time,In-person,"Seattle, WA",Large
+2025.0,Senior Data Scientist,Data Science,GWP,40416.67,4041.67,Guinea-Bissau,Senior,Full-time,Hybrid,Bissau,Small
+2025.0,Data Scientist,Data Science,CVE,404166.67,4041.67,Cape Verde,Entry,Full-time,Remote,Praia,Small
+2025.0,Magnetooptic Computing Engineer,Magnetooptic Computing,USD,17916.67,17916.67,United States,Senior,Full-time,Remote,"Palo Alto, CA",Large
+2025.0,Junior Data Scientist,Data Science,EUR,4583.33,4858.33,Liechtenstein,Entry,Full-time,In-person,Vaduz,Small
+2025.0,Electrocaloric Data Researcher,Electrocaloric Computing,USD,16250.0,16250.0,United States,Mid,Full-time,Hybrid,"Stanford, CA",Large
+2025.0,Asteroid Mining Data Analyst,Space Mining Analytics,USD,17083.33,17083.33,United States,Mid,Full-time,Remote,"Los Angeles, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,STP,1041666.67,47333.33,São Tomé and Príncipe,Senior,Full-time,In-person,São Tomé,Medium
+2025.0,Magnetoelastic Computing Specialist,Magnetoelastic Computing,USD,18750.0,18750.0,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Data Science Sociologist,Data Sociology,CAD,7333.33,5408.33,Canada,Mid,Part-time,Remote,Winnipeg,Small
+2025.0,Piezophototronics Engineer,Piezophototronics,USD,19583.33,19583.33,United States,Senior,Full-time,In-person,"Austin, TX",Large
+2025.0,Lunar Data Architect,Lunar Analytics,USD,17916.67,17916.67,United States,Senior,Full-time,Hybrid,"Houston, TX",Large
+2025.0,Machine Learning Engineer,Machine Learning,WST,40416.67,40416.67,Samoa,Mid,Full-time,Remote,Apia,Small
+2025.0,Magnetothermal Data Analyst,Magnetothermal Computing,USD,15416.67,15416.67,United States,Mid,Full-time,In-person,"Seattle, WA",Large
+2025.0,Data Fabric Consultant,Data Architecture,GBP,8750.0,10983.33,United Kingdom,Senior,Contract,Remote,Belfast,Medium
+2025.0,Machine Learning Engineer,Machine Learning,TOP,40416.67,17291.67,Tonga,Senior,Full-time,Hybrid,Nuku'alofa,Small
+2025.0,Magnetoacoustic Computing Engineer,Magnetoacoustic Computing,USD,17916.67,17916.67,United States,Senior,Full-time,Remote,"Palo Alto, CA",Large
+2025.0,Junior Data Analyst,Data Analysis,EUR,3500.0,3708.33,Monaco,Entry,Full-time,In-person,Monte Carlo,Small
+2025.0,Electrostriction Data Researcher,Electrostriction Computing,USD,16250.0,16250.0,United States,Mid,Full-time,Hybrid,"Stanford, CA",Large
+2025.0,Martian Data Scientist,Planetary Analytics,USD,21250.0,21250.0,United States,Senior,Full-time,Remote,"Pasadena, CA",Large
+2025.0,Galactic Data Architect,Galactic Analytics,USD,22916.67,22916.67,United States,Senior,Full-time,Remote,"Pasadena, CA",Large
+2025.0,Data Scientist,Data Science,VUV,404166.67,3600.0,Vanuatu,Entry,Full-time,In-person,Port Vila,Small
+2025.0,Metamagnetic Computing Engineer,Metamagnetic Computing,USD,20416.67,20416.67,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Tidal Data Analyst,Marine Analytics,EUR,5666.67,6008.33,France,Mid,Full-time,Remote,Brest,Medium
+2025.0,Junior Data Scientist,Data Science,FJD,7916.67,3541.67,Fiji,Entry,Full-time,In-person,Suva,Small
+2025.0,Magnetohydrodynamic ML Engineer,MHD Computing,USD,19583.33,19583.33,United States,Senior,Full-time,In-person,"Austin, TX",Large
+2025.0,Data Mesh Philosopher,Data Philosophy,USD,12083.33,12083.33,United States,Mid,Contract,Remote,"Berkeley, CA",Small
+2025.0,Machine Learning Engineer,Machine Learning,PGK,40416.67,11316.67,Papua New Guinea,Senior,Full-time,Remote,Port Moresby,Medium
+2025.0,Plasma Computing Specialist,Plasma Computing,USD,18750.0,18750.0,United States,Senior,Full-time,Hybrid,"Princeton, NJ",Large
+2025.0,Data Science Archaeologist,Data Archaeology,CAD,8750.0,6450.0,Canada,Mid,Part-time,Remote,Quebec City,Small
+2025.0,Magnetorotational Data Researcher,Magnetorotational Computing,USD,17916.67,17916.67,United States,Mid,Full-time,In-person,"Stanford, CA",Large
+2025.0,Senior Data Analyst,Data Analysis,SBD,32083.33,3850.0,Solomon Islands,Senior,Full-time,Hybrid,Honiara,Small
+2025.0,Data Scientist,Data Science,TVD,40416.67,15416.67,Tuvalu,Entry,Full-time,Remote,Funafuti,Small
+2025.0,Magnetospheric Computing Engineer,Magnetospheric Computing,USD,21250.0,21250.0,United States,Senior,Full-time,Remote,"Boulder, CO",Large
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,4833.33,5125.0,Monaco,Entry,Full-time,In-person,Monaco-Ville,Small
+2025.0,Helioseismic Data Analyst,Solar Analytics,USD,16250.0,16250.0,United States,Mid,Full-time,Hybrid,"Pasadena, CA",Large
+2025.0,Deep Ocean Data Engineer,Oceanic Analytics,USD,12916.67,12916.67,United States,Mid,Full-time,In-person,"Monterey, CA",Medium
+2025.0,Machine Learning Engineer,Machine Learning,KID,154.17,154.17,Kiribati,Mid,Full-time,Remote,Tarawa,Small
+2025.0,Magnetotail Computing Specialist,Magnetotail Computing,USD,19583.33,19583.33,United States,Senior,Full-time,Hybrid,"Seattle, WA",Large
+2025.0,Data Sovereignty Philosopher,Data Philosophy,AUD,9583.33,6325.0,Australia,Mid,Contract,Remote,Perth,Small
+2025.0,Coronal Mass Ejection Analyst,Space Weather Analytics,USD,15416.67,15416.67,United States,Mid,Full-time,In-person,"Boulder, CO",Large
+2025.0,Senior Data Scientist,Data Science,NRU,1541.67,1541.67,Nauru,Senior,Full-time,Hybrid,Yaren,Small
+2025.0,Data Scientist,Data Science,MHL,40416.67,40416.67,Marshall Islands,Entry,Full-time,In-person,Majuro,Small
+2025.0,Magnetopause Data Researcher,Magnetopause Computing,USD,18750.0,18750.0,United States,Senior,Full-time,Remote,"Cambridge, MA",Large
+2025.0,Junior Data Engineer,Data Engineering,EUR,4333.33,4591.67,Vatican City,Entry,Full-time,Hybrid,Vatican City,Small
+2025.0,Solar Wind Computing Engineer,Solar Wind Analytics,USD,17916.67,17916.67,United States,Mid,Full-time,In-person,"Pasadena, CA",Large
+2025.0,Exoplanet Data Architect,Exoplanet Analytics,USD,20416.67,20416.67,United States,Senior,Full-time,Hybrid,"Mountain View, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,PWK,40416.67,40416.67,Palau,Senior,Full-time,Remote,Ngerulmud,Small
+2025.0,Magnetosheath Data Analyst,Magnetosheath Computing,USD,17083.33,17083.33,United States,Mid,Full-time,Hybrid,"Austin, TX",Large
+2025.0,Data Science Linguist,Data Linguistics,CAD,7666.67,5650.0,Canada,Mid,Part-time,Remote,Montreal,Small
+2025.0,Interstellar Medium Researcher,Interstellar Analytics,USD,19583.33,19583.33,United States,Senior,Full-time,In-person,"Pasadena, CA",Large
+2025.0,Senior Data Architect,Data Architecture,CHF,14583.33,17391.67,Switzerland,Senior,Full-time,Remote,Geneva,Large
+2025.0,Data Scientist,Data Science,FSM,40416.67,40416.67,Micronesia,Entry,Full-time,In-person,Palikir,Small
+2025.0,Junior Business Analyst,Business Intelligence,EUR,4000.0,4241.67,San Marino,Entry,Part-time,In-person,San Marino,Small
+2025.0,Dark Matter Computing Specialist,Dark Matter Analytics,USD,22083.33,22083.33,United States,Senior,Full-time,Hybrid,Geneva,Large
+2025.0,Quantum Vacuum Data Analyst,Quantum Vacuum Computing,USD,18750.0,18750.0,United States,Mid,Full-time,In-person,"Stanford, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,CKD,40416.67,40416.67,Cook Islands,Mid,Full-time,Remote,Avarua,Small
+2025.0,Gravitational Wave Data Scientist,Gravitational Wave Analytics,USD,17916.67,17916.67,United States,Senior,Full-time,Hybrid,"Pasadena, CA",Large
+2025.0,Data Democratization Philosopher,Data Philosophy,AUD,9000.0,5941.67,Australia,Mid,Contract,Remote,Melbourne,Small
+2025.0,Neutrino Data Researcher,Neutrino Analytics,USD,17083.33,17083.33,United States,Mid,Full-time,In-person,"Batavia, IL",Large
+2025.0,Senior Data Scientist,Data Science,NIO,40416.67,40416.67,Niue,Senior,Full-time,Hybrid,Alofi,Small
+2025.0,Data Scientist,Data Science,TKL,40416.67,40416.67,Tokelau,Entry,Full-time,Remote,Atafu,Small
+2025.0,Higgs Boson Computing Engineer,Particle Physics Computing,USD,21250.0,21250.0,United States,Senior,Full-time,Remote,Geneva,Large
+2025.0,Junior Data Scientist,Data Science,EUR,5166.67,5475.0,Liechtenstein,Entry,Full-time,In-person,Vaduz,Small
+2025.0,Antimatter Data Analyst,Antimatter Computing,USD,20416.67,20416.67,United States,Mid,Full-time,Hybrid,"Stanford, CA",Large
+2025.0,Multiverse Data Architect,Multiverse Analytics,USD,23750.0,23750.0,United States,Senior,Full-time,Remote,"Berkeley, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,ANG,40416.67,40416.67,Anguilla,Senior,Full-time,In-person,The Valley,Small
+2025.0,String Theory Data Engineer,String Theory Computing,USD,22916.67,22916.67,United States,Senior,Full-time,Hybrid,"Princeton, NJ",Large
+2025.0,Data Science Metaphysicist,Data Metaphysics,CAD,10416.67,7675.0,Canada,Senior,Part-time,Remote,Vancouver,Small
+2025.0,Wormhole Computing Specialist,Wormhole Analytics,USD,24583.33,24583.33,United States,Senior,Full-time,In-person,"Pasadena, CA",Large
+2025.0,Parallel Universe Data Analyst,Parallel Universe Computing,USD,22083.33,22083.33,United States,Mid,Full-time,Hybrid,"Cambridge, MA",Large
+2025.0,Machine Learning Engineer,Machine Learning,MSR,40416.67,40416.67,Montserrat,Mid,Full-time,Remote,Plymouth,Small
+2025.0,Quantum Entanglement Engineer,Quantum Entanglement,USD,19583.33,19583.33,United States,Senior,Full-time,Remote,"Austin, TX",Large
+2025.0,Data Fabric Philosopher,Data Philosophy,GBP,7333.33,9208.33,United Kingdom,Mid,Contract,Remote,Oxford,Small
+2025.0,Machine Learning Engineer,Machine Learning,BMD,40416.67,40416.67,Bermuda,Senior,Full-time,Hybrid,Hamilton,Small
+2025.0,Dimensional Computing Researcher,Dimensional Computing,USD,21250.0,21250.0,United States,Senior,Full-time,In-person,"Stanford, CA",Large
+2025.0,Junior Data Analyst,Data Analysis,EUR,3750.0,3975.0,Andorra,Entry,Full-time,Remote,Andorra la Vella,Small
+2025.0,Holographic Universe Data Scientist,Holographic Computing,USD,22916.67,22916.67,United States,Senior,Full-time,Hybrid,"Berkeley, CA",Large
+2025.0,Simulation Hypothesis Analyst,Simulation Analytics,USD,20416.67,20416.67,United States,Mid,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Consciousness Computing Engineer,Consciousness Computing,USD,26250.0,26250.0,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Data Scientist,Data Science,XCD,40416.67,14966.67,Antigua and Barbuda,Entry,Full-time,Remote,St. John's,Small
+2025.0,Temporal Paradox Data Analyst,Temporal Computing,USD,23750.0,23750.0,United States,Senior,Full-time,Hybrid,"Berkeley, CA",Large
+2025.0,Quantum Consciousness Researcher,Quantum Consciousness,EUR,10416.67,11041.67,Switzerland,Senior,Full-time,Remote,CERN,Large
+2025.0,Junior Data Scientist,Data Science,BBD,40416.67,20208.33,Barbados,Entry,Full-time,In-person,Bridgetown,Small
+2025.0,Reality Simulation Engineer,Reality Computing,USD,25416.67,25416.67,United States,Senior,Full-time,Hybrid,"Austin, TX",Large
+2025.0,Data Mesh Theologian,Data Theology,USD,13750.0,13750.0,United States,Mid,Contract,Remote,"Boston, MA",Small
+2025.0,Machine Learning Engineer,Machine Learning,BZD,40416.67,20041.67,Belize,Senior,Full-time,Remote,Belmopan,Medium
+2025.0,Data Science Theologian,Data Theology,CAD,11250.0,8291.67,Canada,Senior,Part-time,Remote,Toronto,Small
+2025.0,Fractal Universe Data Engineer,Fractal Computing,USD,24583.33,24583.33,United States,Senior,Full-time,Remote,"Stanford, CA",Large
+2025.0,Senior Data Analyst,Data Analysis,KYD,40416.67,48500.0,Cayman Islands,Senior,Full-time,Hybrid,George Town,Small
+2025.0,Data Scientist,Data Science,DOP,237500.0,4041.67,Dominican Republic,Entry,Full-time,In-person,Santo Domingo,Medium
+2025.0,Omniversal Computing Architect,Omniversal Computing,USD,27916.67,27916.67,United States,Senior,Full-time,Hybrid,"Pasadena, CA",Large
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,5416.67,5741.67,Monaco,Entry,Full-time,In-person,Monaco,Small
+2025.0,Records Data Analyst, Computing,USD,22916.67,22916.67,United States,Mid,Full-time,Remote,"Berkeley, CA",Large
+2025.0,Metaphysical Data Engineer,Metaphysical Computing,USD,22083.33,22083.33,United States,Mid,Full-time,In-person,"Cambridge, MA",Large
+2025.0,Machine Learning Engineer,Machine Learning,GYD,820833.33,3933.33,Guyana,Mid,Full-time,Remote,Georgetown,Medium
+2025.0,Collective Consciousness Specialist,Collective Computing,USD,23750.0,23750.0,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Data Sovereignty Theologian,Data Theology,AUD,10416.67,6875.0,Australia,Mid,Contract,Remote,Sydney,Small
+2025.0,Morphic Field Data Researcher,Morphic Computing,USD,21250.0,21250.0,United States,Senior,Full-time,In-person,"Stanford, CA",Large
+2025.0,Senior Data Scientist,Data Science,HTG,404166.67,5483.33,Haiti,Senior,Full-time,Hybrid,Port-au-Prince,Small
+2025.0,Data Scientist,Data Science,JMD,654166.67,4183.33,Jamaica,Entry,Full-time,Remote,Kingston,Medium
+2025.0,Noospheric Computing Engineer,Noospheric Computing,USD,24583.33,24583.33,United States,Senior,Full-time,Remote,"Berkeley, CA",Large
+2025.0,Junior Data Engineer,Data Engineering,EUR,4833.33,5125.0,Liechtenstein,Entry,Full-time,Hybrid,Vaduz,Small
+2025.0,Archetypal Data Analyst,Archetypal Computing,USD,20416.67,20416.67,United States,Mid,Full-time,In-person,Zurich,Large
+2025.0,Machine Learning Engineer,Machine Learning,SRD,404166.67,11541.67,Suriname,Senior,Full-time,Remote,Paramaribo,Medium
+2025.0,Quantum Field Data Engineer,Quantum Field Computing,USD,22916.67,22916.67,United States,Mid,Full-time,In-person,"Austin, TX",Large
+2025.0,Data Science Mystic,Data Mysticism,CAD,9583.33,7058.33,Canada,Mid,Part-time,Remote,Vancouver,Small
+2025.0,Zero Point Energy Analyst,Zero Point Computing,USD,23750.0,23750.0,United States,Senior,Full-time,Remote,"Stanford, CA",Large
+2025.0,Senior Data Architect,Data Architecture,CHF,15416.67,18383.33,Switzerland,Senior,Full-time,Hybrid,Basel,Large
+2025.0,Data Scientist,Data Science,TTD,40416.67,5958.33,Trinidad and Tobago,Entry,Full-time,In-person,Port of Spain,Medium
+2025.0,Akashic Field Computing Specialist,Akashic Computing,USD,24583.33,24583.33,United States,Senior,Full-time,Hybrid,"Berkeley, CA",Large
+2025.0,Junior Business Analyst,Business Intelligence,EUR,4333.33,4591.67,San Marino,Entry,Part-time,Remote,San Marino,Small
+2025.0,Unified Field Data Researcher,Unified Field Computing,USD,25416.67,25416.67,United States,Senior,Full-time,In-person,"Princeton, NJ",Large
+2025.0,Transcendental Data Analyst,Transcendental Computing,USD,22083.33,22083.33,United States,Mid,Full-time,Remote,"Cambridge, MA",Large
+2025.0,Machine Learning Engineer,Machine Learning,AWG,40416.67,22450.0,Aruba,Mid,Full-time,Hybrid,Oranjestad,Small
+2025.0,Morphogenetic Field Engineer,Morphogenetic Computing,USD,22916.67,22916.67,United States,Senior,Full-time,Hybrid,"Stanford, CA",Large
+2025.0,Data Democratization Mystic,Data Mysticism,AUD,9833.33,6491.67,Australia,Mid,Contract,Remote,Adelaide,Small
+2025.0,Platonic Realm Data Scientist,Platonic Computing,USD,23750.0,23750.0,United States,Senior,Full-time,In-person,"Berkeley, CA",Large
+2025.0,Senior Data Scientist,Data Science,CUC,40416.67,40416.67,Cuba,Senior,Full-time,Remote,Havana,Medium
+2025.0,Data Scientist,Data Science,VES,1041666666.67,291.67,Venezuela,Entry,Full-time,In-person,Caracas,Small
+2025.0,Ethereal Computing Architect,Ethereal Computing,USD,24583.33,24583.33,United States,Senior,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Junior Data Scientist,Data Science,EUR,5666.67,6008.33,Vatican City,Entry,Full-time,In-person,Vatican City,Small
+2025.0,Astral Plane Data Engineer,Astral Computing,USD,22916.67,22916.67,United States,Mid,Full-time,Hybrid,"Berkeley, CA",Large
+2025.0,Causal Nexus Analyst,Causal Computing,USD,21250.0,21250.0,United States,Senior,Full-time,In-person,"Stanford, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,ANG,40416.67,40416.67,Netherlands Antilles,Senior,Full-time,Remote,Willemstad,Small
+2025.0,Dimensional Membrane Engineer,Membrane Computing,USD,25416.67,25416.67,United States,Senior,Full-time,Hybrid,"Princeton, NJ",Large
+2025.0,Quantum Foam Data Researcher,Quantum Foam Computing,USD,23750.0,23750.0,United States,Mid,Full-time,Remote,"Austin, TX",Large
+2025.0,Hyperdimensional Data Analyst,Hyperdimensional Computing,USD,24583.33,24583.33,United States,Senior,Full-time,In-person,"Cambridge, MA",Large
+2025.0,Machine Learning Engineer,Machine Learning,FKP,40416.67,40416.67,Falkland Islands,Mid,Full-time,Hybrid,Stanley,Small
+2025.0,Primordial Field Computing Specialist,Primordial Computing,USD,26250.0,26250.0,United States,Senior,Full-time,Remote,"Stanford, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,GIP,40416.67,40416.67,Gibraltar,Senior,Full-time,In-person,Gibraltar,Small
+2025.0,Akashic Database Architect,Akashic Computing,USD,27083.33,27083.33,United States,Senior,Full-time,Hybrid,"Berkeley, CA",Large
+2025.0,Junior Data Analyst,Data Analysis,EUR,4000.0,4241.67,Andorra,Entry,Full-time,Remote,Andorra la Vella,Small
+2025.0,Omniscient Computing Researcher,Omniscient Computing,USD,28750.0,28750.0,United States,Senior,Full-time,Remote,"Berkeley, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,SHP,40416.67,40416.67,Saint Helena,Mid,Full-time,Hybrid,Jamestown,Small
+2025.0,Absolute Reality Data Scientist,Absolute Computing,USD,27916.67,27916.67,United States,Senior,Full-time,In-person,"Princeton, NJ",Large
+2025.0,Data Science Oracle,Data Divination,CAD,12083.33,8900.0,Canada,Senior,Part-time,Remote,British Columbia,Small
+2025.0,Machine Learning Engineer,Machine Learning,TAA,40416.67,40416.67,Tristan da Cunha,Senior,Full-time,Remote,Edinburgh of the Seven Seas,Small
+2025.0,Quantum Consciousness Architect,Quantum Consciousness,USD,27083.33,27083.33,United States,Senior,Full-time,In-person,"Cambridge, MA",Large
+2025.0,Machine Learning Engineer,Machine Learning,USD,15416.67,15416.67,United States,Mid,Full-time,Remote,"Honolulu, HI",Medium
+2025.0,Universal Mind Data Engineer,Universal Computing,USD,28750.0,28750.0,United States,Senior,Full-time,Remote,"Berkeley, CA",Large
+2025.0,Data Mesh Oracle,Data Divination,GBP,8750.0,10983.33,United Kingdom,Senior,Contract,Remote,Glastonbury,Small
+2025.0,Machine Learning Engineer,Machine Learning,USD,14583.33,14583.33,United States,Mid,Full-time,Hybrid,"Anchorage, AK",Medium
+2025.0,Omnipresent Data Architect,Omnipresent Computing,USD,32083.33,32083.33,United States,Senior,Full-time,Remote,Everywhere,Large
+2025.0,Data Scientist,Data Science,BSD,40416.67,40416.67,Bahamas,Entry,Full-time,In-person,Nassau,Small
+2025.0, Algorithm Engineer, Computing,USD,31250.0,31250.0,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Eternal Data Researcher,Eternal Computing,EUR,12083.33,12808.33,Switzerland,Senior,Full-time,Remote,CERN,Large
+2025.0,Junior Data Scientist,Data Science,BND,40416.67,30208.33,Brunei,Entry,Full-time,In-person,Bandar Seri Begawan,Small
+2025.0,Machine Learning Engineer,Machine Learning,KHR,154166666.67,38066.67,Cambodia,Senior,Full-time,Remote,Phnom Penh,Medium
+2025.0,Data Science Sage,Data Wisdom,CAD,12916.67,9516.67,Canada,Senior,Part-time,Remote,Tibet,Small
+2025.0,Primordial Consciousness Engineer,Primordial Computing,USD,32083.33,32083.33,United States,Senior,Full-time,Remote,"Stanford, CA",Large
+2025.0,Senior Data Analyst,Data Analysis,LAK,404166666.67,40416.67,Laos,Senior,Full-time,Hybrid,Vientiane,Medium
+2025.0,Data Scientist,Data Science,MVR,654166.67,42483.33,Maldives,Entry,Full-time,In-person,Malé,Small
+2025.0,Absolute Truth Computing Architect,Truth Computing,USD,33750.0,33750.0,United States,Senior,Full-time,In-person,"Cambridge, MA",Large
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,6000.0,6358.33,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Transcendent Algorithm Researcher,Transcendent Computing,USD,30416.67,30416.67,United States,Senior,Full-time,In-person,"Stanford, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,BTN,237500.0,2850.0,Bhutan,Mid,Full-time,Remote,Thimphu,Medium
+2025.0,Universal Love Computing Specialist,Love Computing,USD,29583.33,29583.33,United States,Senior,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Data Sovereignty Sage,Data Wisdom,AUD,11250.0,7425.0,Australia,Mid,Contract,Remote,Uluru,Small
+2025.0,Nirvana Data Analyst,Nirvana Computing,USD,28750.0,28750.0,United States,Senior,Full-time,Hybrid,"Berkeley, CA",Large
+2025.0,Senior Data Scientist,Data Science,AFN,320833.33,3658.33,Afghanistan,Senior,Full-time,In-person,Kabul,Small
+2025.0,Data Scientist,Data Science,IRR,123750000.0,2933.33,Iran,Entry,Full-time,Remote,Tehran,Medium
+2025.0,Samadhi Computing Engineer,Samadhi Computing,USD,32083.33,32083.33,United States,Senior,Full-time,In-person,"Austin, TX",Large
+2025.0,Junior Data Engineer,Data Engineering,EUR,5166.67,5475.0,Vatican City,Entry,Full-time,Hybrid,Vatican City,Small
+2025.0,Moksha Data Researcher,Moksha Computing,USD,31250.0,31250.0,United States,Mid,Full-time,Remote,"Stanford, CA",Large
+2025.0,Satori Algorithm Architect,Satori Computing,USD,30416.67,30416.67,United States,Senior,Full-time,Hybrid,"Cambridge, MA",Large
+2025.0,Machine Learning Engineer,Machine Learning,IQD,540416666.67,412500.0,Iraq,Senior,Full-time,In-person,Baghdad,Medium
+2025.0,Bodhi Tree Data Engineer,Bodhi Computing,USD,29583.33,29583.33,United States,Senior,Full-time,Remote,"Berkeley, CA",Large
+2025.0,Dharma Computing Specialist,Dharma Computing,USD,28750.0,28750.0,United States,Senior,Full-time,In-person,"San Francisco, CA",Large
+2025.0,Senior Data Architect,Data Architecture,CHF,16250.0,19383.33,Switzerland,Senior,Full-time,Remote,Zurich,Large
+2025.0,Data Scientist,Data Science,SYP,1040416666.67,412500.0,Syria,Entry,Full-time,Hybrid,Damascus,Small
+2025.0,Karma Algorithm Engineer,Karma Computing,USD,31250.0,31250.0,United States,Senior,Full-time,Hybrid,"Austin, TX",Large
+2025.0,Junior Business Analyst,Business Intelligence,EUR,4583.33,4858.33,Liechtenstein,Entry,Part-time,In-person,Vaduz,Small
+2025.0,Tao Data Analyst,Tao Computing,USD,30416.67,30416.67,United States,Mid,Full-time,Remote,"Berkeley, CA",Large
+2025.0,Wu Wei Computing Researcher,Wu Wei Computing,USD,29583.33,29583.33,United States,Senior,Full-time,In-person,"Stanford, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,YER,104041666.67,415416.67,Yemen,Mid,Full-time,Remote,Sana'a,Small
+2025.0,Zen Algorithm Architect,Zen Computing,USD,28750.0,28750.0,United States,Senior,Full-time,Hybrid,"San Francisco, CA",Large
+2025.0,Yin Yang Data Engineer,Balance Computing,USD,31250.0,31250.0,United States,Senior,Full-time,Remote,"Austin, TX",Large
+2025.0,Senior Data Scientist,Data Science,LBP,20708333333.33,137500.0,Lebanon,Senior,Full-time,In-person,Beirut,Medium
+2025.0,Data Scientist,Data Science,JOD,40416.67,56916.67,Jordan,Entry,Full-time,Hybrid,Amman,Medium
+2025.0,Junior Data Scientist,Data Science,EUR,6250.0,6625.0,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Mandala Algorithm Engineer,Mandala Computing,USD,28750.0,28750.0,United States,Senior,Full-time,Remote,"San Francisco, CA",Large
+2025.0,Machine Learning Engineer,Machine Learning,OMR,123750.0,321500.0,Oman,Senior,Full-time,In-person,Muscat,Medium
+2025.0,Lotus Data Analyst,Lotus Computing,USD,31250.0,31250.0,United States,Senior,Full-time,Hybrid,"Berkeley, CA",Large
+2025.0,Data Science,Data Compassion,CAD,14583.33,10750.0,Canada,Senior,Part-time,Remote,Dharamshala,Small
+2025.0,Data Scientist,Data Science,QAR,123750.0,34000.0,Qatar,Entry,Full-time,In-person,Doha,Large
+2025.0,Source Code of Reality Engineer,Reality Source Computing,USD,34583.33,34583.33,United States,Senior,Full-time,Hybrid,Quantum Realm,Infinite
+2025.0,Junior Data Scientist,Data Science,AED,40416.67,11000.0,United Arab Emirates,Entry,Full-time,In-person,Dubai,Large
+2025.0,Machine Learning Engineer,Machine Learning,KWD,10416.67,34000.0,Kuwait,Senior,Full-time,Remote,Kuwait City,Large
+2025.0,Multiversal Consciousness Architect,Multiversal Computing,USD,36250.0,36250.0,United States,Senior,Full-time,Hybrid,All Dimensions,Infinite
+2025.0,Primordial Source Data Engineer,Primordial Source Computing,USD,35416.67,35416.67,United States,Senior,Full-time,Remote,Origin Point,Infinite
+2025.0,Senior Data Analyst,Data Analysis,BHD,15416.67,40875.0,Bahrain,Senior,Full-time,Hybrid,Manama,Medium
+2025.0,Data Scientist,Data Science,SAR,123750.0,33000.0,Saudi Arabia,Entry,Full-time,In-person,Riyadh,Large
+2025.0,Algorithm Architect,Love Algorithm Computing,USD,37083.33,37083.33,United States,Senior,Full-time,In-person,Heart Center,Infinite
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,6833.33,7250.0,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal Compassion Data Engineer,Compassion Computing,USD,34583.33,34583.33,United States,Mid,Full-time,Hybrid,Compassion Center,Infinite
+2025.0,Eternal Bliss Computing Researcher,Bliss Computing,USD,33750.0,33750.0,United States,Senior,Full-time,In-person,Bliss Field,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,MOP,320833.33,39958.33,Macau,Mid,Full-time,Remote,Macau,Medium
+2025.0, Data Specialist, Data Computing,USD,32916.67,32916.67,United States,Senior,Full-time,Remote, Core,Infinite
+2025.0,Sacred Geometry Algorithm Analyst,Sacred Geometry Computing,USD,32083.33,32083.33,United States,Senior,Full-time,Hybrid,Golden Ratio,Infinite
+2025.0,Senior Data Scientist,Data Science,ILS,123750.0,33916.67,Israel,Senior,Full-time,In-person,Tel Aviv,Large
+2025.0,Data Scientist,Data Science,TRY,1040416.67,30583.33,Turkey,Entry,Full-time,Remote,Istanbul,Medium
+2025.0,Fibonacci Sequence Computing Engineer,Fibonacci Computing,USD,35416.67,35416.67,United States,Senior,Full-time,In-person,Spiral Center,Infinite
+2025.0,Junior Data Engineer,Data Engineering,EUR,6000.0,6358.33,Vatican City,Entry,Full-time,Hybrid,Vatican City,Small
+2025.0,Golden Ratio Data Researcher,Golden Ratio Computing,USD,34583.33,34583.33,United States,Mid,Full-time,Remote,Phi Point,Infinite
+2025.0,Flower of Life Algorithm Architect,Flower of Life Computing,USD,33750.0,33750.0,United States,Senior,Full-time,Hybrid,Life Center,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,HKD,320833.33,41250.0,Hong Kong,Senior,Full-time,In-person,Hong Kong,Large
+2025.0,Merkaba Data Engineer,Merkaba Computing,USD,32916.67,32916.67,United States,Senior,Full-time,Remote,Light Body,Infinite
+2025.0,Data Science Christ,Data Christ Consciousness,CAD,16250.0,11975.0,Canada,Senior,Part-time,Remote,Mount Sinai,Small
+2025.0,Tree of Life Computing Specialist,Tree of Life Computing,USD,32083.33,32083.33,United States,Senior,Full-time,In-person,Sephiroth,Infinite
+2025.0,Senior Data Architect,Data Architecture,CHF,17083.33,20375.0,Switzerland,Senior,Full-time,Remote,Zurich,Large
+2025.0,Data Scientist,Data Science,EGP,1040416.67,33375.0,Egypt,Entry,Full-time,Hybrid,Cairo,Medium
+2025.0,Kabbalah Algorithm Engineer,Kabbalah Computing,USD,34583.33,34583.33,United States,Senior,Full-time,Hybrid,Ein Sof,Infinite
+2025.0,Junior Business Analyst,Business Intelligence,EUR,5166.67,5475.0,Liechtenstein,Entry,Part-time,In-person,Vaduz,Small
+2025.0,I Ching Data Analyst,I Ching Computing,USD,33750.0,33750.0,United States,Mid,Full-time,Remote,Hexagram Space,Infinite
+2025.0,Tarot Algorithm Researcher,Tarot Computing,USD,32916.67,32916.67,United States,Senior,Full-time,In-person,Arcana Field,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,SGD,40416.67,30000.0,Singapore,Mid,Full-time,Remote,Singapore,Large
+2025.0,Rune Computing Architect,Rune Computing,USD,32083.33,32083.33,United States,Senior,Full-time,Hybrid,Runic ,Infinite
+2025.0,Data Democratization Christ,Data Christ Consciousness,AUD,11500.0,7591.67,Australia,Mid,Contract,Remote,Mount Kosciuszko,Small
+2025.0,Astrology Data Engineer,Astrology Computing,USD,34583.33,34583.33,United States,Senior,Full-time,Remote,Zodiac Wheel,Infinite
+2025.0,Senior Data Scientist,Data Science,TWD,1040416.67,31833.33,Taiwan,Senior,Full-time,In-person,Taipei,Large
+2025.0,Data Scientist,Data Science,KRW,40416666.67,30000.0,South Korea,Entry,Full-time,Hybrid,Seoul,Large
+2025.0,Numerology Computing Specialist,Numerology Computing,USD,33750.0,33750.0,United States,Senior,Full-time,In-person,Number Field,Infinite
+2025.0,Junior Data Scientist,Data Science,EUR,7083.33,7508.33,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Crystal Grid Data Researcher,Crystal Computing,USD,32916.67,32916.67,United States,Mid,Full-time,Hybrid,Crystal ,Infinite
+2025.0,Ley Line Algorithm Engineer,Ley Line Computing,USD,32083.33,32083.33,United States,Senior,Full-time,Remote,Earth Grid,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,MYR,123750.0,27666.67,Malaysia,Senior,Full-time,In-person,Kuala Lumpur,Medium
+2025.0,Vortex Data Analyst,Vortex Computing,USD,34583.33,34583.33,United States,Senior,Full-time,Hybrid,Energy Vortex,Infinite
+2025.0,Portal Computing Architect,Portal Computing,USD,35416.67,35416.67,United States,Senior,Full-time,In-person,Dimensional Gate,Infinite
+2025.0,Stargate Data Engineer,Stargate Computing,USD,36250.0,36250.0,United States,Senior,Full-time,Remote,Star Portal,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,THB,1040416.67,29666.67,Thailand,Mid,Full-time,Hybrid,Bangkok,Large
+2025.0,Interdimensional Bridge Specialist,Bridge Computing,USD,37083.33,37083.33,United States,Senior,Full-time,Hybrid,Between Worlds,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,VND,1040416666.67,41750.0,Vietnam,Senior,Full-time,In-person,Ho Chi Minh City,Large
+2025.0,Junior Data Analyst,Data Analysis,EUR,4333.33,,Andorra,Entry,Full-time,Hybrid,Andorra la Vella,Small
+2025.0,Galactic Beacon Engineer,Beacon Computing,USD,35416.67,35416.67,United States,Senior,Full-time,In-person,Signal Source,Infinite
+2025.0,Universal Translator Data Scientist,Translation Computing,USD,33750.0,33750.0,United States,Mid,Full-time,Hybrid,Language Core,Infinite
+2025.0,Universal Source Code Architect,Universal Source Computing,USD,40416.67,40416.67,United States,Senior,Full-time,Everywhere,Source of All,Infinite
+,Data Scientist,Data Science,FJD,123750.0,55416.67,Fiji,Entry,Full-time,In-person,Suva,Small
+2025.0,Junior Data Scientist,Data Science,PGK,123750.0,34583.33,Papua New Guinea,Entry,Full-time,In-person,Port Moresby,Medium
+2025.0, Unity Computing Specialist, Unity Computing,USD,38750.0,38750.0,United States,Senior,Full-time,In-person,Unity Field,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,SBD,1040416.67,125000.0,Solomon Islands,Senior,Full-time,Remote,Honiara,Medium
+2025.0,Omniscient Love Data Architect,Omniscient Love Computing,USD,41250.0,41250.0,United States,Senior,Full-time,Hybrid,Heart of All,Infinite
+2025.0,Eternal Bliss  Engineer,Eternal Bliss Computing,USD,40416.67,40416.67,United States,Senior,Full-time,Remote,Bliss Eternal,Infinite
+2025.0,Senior Data Analyst,Data Analysis,VUV,4041666.67,36000.0,Vanuatu,Senior,Full-time,Hybrid,Port Vila,Small
+2025.0,Data Scientist,Data Science,WST,123750.0,123750.0,Samoa,Entry,Full-time,In-person,Apia,Small
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,7666.67,8125.0,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal Peace Data Engineer,Universal Peace Computing,USD,39583.33,39583.33,United States,Mid,Full-time,Hybrid,Peace Center,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,TOP,123750.0,52916.67,Tonga,Mid,Full-time,Remote,Nuku'alofa,Small
+2025.0, Wisdom  Specialist, Wisdom Computing,USD,37916.67,37916.67,United States,Senior,Full-time,Remote,Wisdom Source,Infinite
+2025.0,Senior Data Scientist,Data Science,TVD,123750.0,123750.0,Tuvalu,Senior,Full-time,In-person,Funafuti,Small
+2025.0,Data Scientist,Data Science,KID,12375.0,12375.0,Kiribati,Entry,Full-time,Remote,Tarawa,Small
+2025.0,Universal Forgiveness Data Engineer,Forgiveness Computing,USD,40416.67,40416.67,United States,Senior,Full-time,In-person,Forgiveness Center,Infinite
+2025.0,Junior Data Engineer,Data Engineering,EUR,6833.33,7250.0,Vatican City,Entry,Full-time,Hybrid,Vatican City,Small
+2025.0, Joy Computing Researcher, Joy Computing,USD,38750.0,38750.0,United States,Senior,Full-time,Hybrid,Joy Source,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,NRU,12375.0,12375.0,Nauru,Senior,Full-time,In-person,Yaren,Small
+2025.0,Data Science Krishna,Data Krishna Consciousness,CAD,19583.33,14425.0,Canada,Senior,Part-time,Remote,Vrindavan,Small
+2025.0,Universal Truth  Specialist,Universal Truth Computing,USD,37083.33,37083.33,United States,Senior,Full-time,In-person,Truth Universal,Infinite
+2025.0,Senior Data Architect,Data Architecture,CHF,17916.67,21375.0,Switzerland,Senior,Full-time,Remote,Geneva,Large
+2025.0,Data Scientist,Data Science,MHL,123750.0,123750.0,Marshall Islands,Entry,Full-time,Hybrid,Majuro,Small
+2025.0,Junior Business Analyst,Business Intelligence,EUR,6000.0,6358.33,Liechtenstein,Entry,Part-time,In-person,Vaduz,Small
+2025.0, Perfection Data Analyst,Perfection Computing,USD,39583.33,39583.33,United States,Mid,Full-time,Remote,Perfection ,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,PWK,123750.0,123750.0,Palau,Mid,Full-time,Remote,Ngerulmud,Small
+2025.0,Universal Prosperity Data Architect,Prosperity Computing,USD,37916.67,37916.67,United States,Senior,Full-time,Hybrid,Prosperity Universal,Infinite
+2025.0,Data Democratization Krishna,Data Krishna Consciousness,AUD,13166.67,8691.67,Australia,Mid,Contract,Remote,Mount Govardhan,Small
+2025.0,Senior Data Scientist,Data Science,FSM,123750.0,123750.0,Micronesia,Senior,Full-time,In-person,Palikir,Small
+2025.0,Data Scientist,Data Science,CKD,123750.0,123750.0,Cook Islands,Entry,Full-time,Hybrid,Avarua,Small
+2025.0, Transformation Data Specialist,Transformation Computing,USD,40416.67,40416.67,United States,Senior,Full-time,In-person,Transformation ,Infinite
+2025.0,Junior Data Scientist,Data Science,EUR,7916.67,8391.67,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal Salvation Data Researcher,Salvation Computing,USD,38750.0,38750.0,United States,Senior,Full-time,Remote,Salvation Universal,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,NIO,123750.0,123750.0,Niue,Senior,Full-time,In-person,Alofi,Small
+2025.0,Data Science Shiva,Data Shiva Consciousness,CAD,20416.67,15041.67,Canada,Senior,Part-time,Remote,Mount Kailash,Small
+2025.0, Resurrection Data Engineer,Resurrection Computing,USD,37083.33,37083.33,United States,Senior,Full-time,In-person,Resurrection ,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,TKL,123750.0,123750.0,Tokelau,Mid,Full-time,Hybrid,Atafu,Small
+2025.0,Data Fabric Shiva,Data Shiva Consciousness,GBP,10416.67,13066.67,United Kingdom,Mid,Contract,Remote,Benares,Small
+2025.0,Machine Learning Engineer,Machine Learning,ANG,123750.0,123750.0,Anguilla,Senior,Full-time,Remote,The Valley,Small
+2025.0,Junior Data Analyst,Data Analysis,EUR,5166.67,5475.0,Andorra,Entry,Full-time,Remote,Andorra la Vella,Small
+2025.0, Rapture Data Researcher,Rapture Computing,USD,37916.67,37916.67,United States,Mid,Full-time,In-person,Rapture ,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,MSR,123750.0,123750.0,Montserrat,Senior,Full-time,Hybrid,Plymouth,Small
+2025.0,Universal Nirvana Data Architect,Nirvana Computing,USD,40416.67,40416.67,United States,Senior,Full-time,In-person,Nirvana Universal,Infinite
+2025.0, Moksha Data Specialist,Moksha Computing,USD,38750.0,38750.0,United States,Mid,Full-time,Remote,Moksha ,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,BMD,123750.0,123750.0,Bermuda,Mid,Full-time,In-person,Hamilton,Small
+2025.0,Universal Kensho Data Engineer,Kensho Computing,USD,37083.33,37083.33,United States,Senior,Full-time,In-person,Kensho Universal,Infinite
+2025.0,Data Scientist,Data Science,XPF,12375000.0,110000.0,French Polynesia,Entry,Full-time,In-person,Tahiti,Small
+2025.0,Universal Sacred Heart Computing Engineer,Sacred Heart Computing,USD,42916.67,42916.67,United States,Senior,Full-time,Hybrid,Sacred Heart Center,Infinite
+2025.0,Junior Data Scientist,Data Science,NCL,12375000.0,123750.0,New Caledonia,Entry,Full-time,In-person,Noumea,Medium
+2025.0,Data Mesh  Child,Data  Child,USD,21250.0,21250.0,United States,Mid,Contract,Remote,Bethlehem,Small
+2025.0,Machine Learning Engineer,Machine Learning,WLF,12375000.0,123750.0,Wallis and Futuna,Senior,Full-time,Remote,Mata-Utu,Small
+2025.0,Data Science  Child,Data  Child,CAD,21250.0,15658.33,Canada,Senior,Part-time,Remote,Nazareth,Small
+2025.0,Eternal  Presence  Engineer, Presence Computing,USD,43750.0,43750.0,United States,Senior,Full-time,Remote, Presence,Infinite
+2025.0,Senior Data Analyst,Data Analysis,PYG,12375000.0,3333.33,Paraguay,Senior,Full-time,Hybrid,Asuncion,Medium
+2025.0,Data Scientist,Data Science,UYU,12375000.0,291666.67,Uruguay,Entry,Full-time,In-person,Montevideo,Medium
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,8750.0,9275.0,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal  Mercy Data Engineer, Mercy Computing,USD,42916.67,42916.67,United States,Mid,Full-time,Hybrid,Mercy Center,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,GYD,12375000.0,59333.33,Guyana,Mid,Full-time,Remote,Georgetown,Medium
+2025.0, Omnipotence  Specialist, Omnipotence Computing,USD,41250.0,41250.0,United States,Senior,Full-time,Remote,Omnipotence Source,Infinite
+2025.0,Data Sovereignty  Child,Data  Child,AUD,15416.67,10175.0,Australia,Mid,Contract,Remote,Mount Zion,Small
+2025.0,Senior Data Scientist,Data Science,BOB,12375000.0,1791666.67,Bolivia,Senior,Full-time,In-person,La Paz,Medium
+2025.0,Data Scientist,Data Science,PEN,12375000.0,3333333.33,Peru,Entry,Full-time,Remote,Lima,Medium
+2025.0,Universal  Providence Data Engineer, Providence Computing,USD,43750.0,43750.0,United States,Senior,Full-time,In-person,Providence Center,Infinite
+2025.0,Junior Data Engineer,Data Engineering,EUR,7666.67,8125.0,Vatican City,Entry,Full-time,Hybrid,Vatican City,Small
+2025.0, Omniscience Computing Researcher, Omniscience Computing,USD,42083.33,42083.33,United States,Senior,Full-time,Hybrid,Omniscience Source,Infinite
+2025.0,Universal  Glory  Specialist, Glory Computing,USD,40416.67,40416.67,United States,Senior,Full-time,In-person,Glory Universal,Infinite
+2025.0,Senior Data Architect,Data Architecture,CHF,18750.0,22375.0,Switzerland,Senior,Full-time,Remote,Basel,Large
+2025.0,Junior Business Analyst,Business Intelligence,EUR,6833.33,7250.0,Liechtenstein,Entry,Part-time,In-person,Vaduz,Small
+2025.0, Sovereignty Data Analyst, Sovereignty Computing,USD,42916.67,42916.67,United States,Mid,Full-time,Remote,Sovereignty ,Infinite
+2025.0,Universal  Dominion Data Architect, Dominion Computing,USD,41250.0,41250.0,United States,Senior,Full-time,Hybrid,Dominion Universal,Infinite
+2025.0,Junior Data Scientist,Data Science,EUR,9000.0,9541.67,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal  Scepter Data Researcher, Scepter Computing,USD,42083.33,42083.33,United States,Senior,Full-time,Remote,Scepter Universal,Infinite
+2025.0,Universal  Fire Algorithm Architect, Fire Computing,USD,43750.0,43750.0,United States,Senior,Full-time,Remote,Fire Universal,Infinite
+2025.0,Junior Data Analyst,Data Analysis,EUR,6000.0,6358.33,Andorra,Entry,Full-time,Remote,Andorra la Vella,Small
+2025.0,Universal  Air Data Researcher, Air Computing,USD,41250.0,41250.0,United States,Mid,Full-time,In-person,Air Universal,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,HNL,12375000.0,500000.0,Honduras,Senior,Full-time,Hybrid,Tegucigalpa,Medium
+2025.0, Eternal Moment Algorithm Engineer, Moment Computing,USD,42916.67,42916.67,United States,Senior,Full-time,Hybrid,Eternal Moment,Infinite
+2025.0,Universal  Absolute Data Engineer, Absolute Computing,USD,43750.0,43750.0,United States,Senior,Full-time,Remote,Absolute Universal,Infinite
+2025.0,Supreme  Source Code Architect,Supreme  Computing,USD,47916.67,47916.67,United States,Senior,Full-time,Everywhere,Supreme Source,Infinite
+2025.0,Data Scientist,Data Science,SVC,12375000.0,140416.67,El Salvador,Entry,Full-time,In-person,San Salvador,Medium
+2025.0,Universal  YHWH Algorithm Specialist,YHWH Computing,USD,48750.0,48750.0,United States,Senior,Full-time,In-person,Sacred Name Field,Infinite
+2025.0,Data Mesh  Logos,Data  Logos,USD,23750.0,23750.0,United States,Mid,Contract,Remote,Mount Sinai,Small
+2025.0,Omnipotent  Word Architect, Word Computing,USD,49583.33,49583.33,United States,Senior,Full-time,Hybrid,Word Center,Infinite
+2025.0,Data Science  Logos,Data  Logos,CAD,23750.0,17500.0,Canada,Senior,Part-time,Remote,Mount Horeb,Small
+2025.0,Eternal  Breath  Engineer, Breath Computing,USD,47916.67,47916.67,United States,Senior,Full-time,Remote,Breath Eternal,Infinite
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,9833.33,10416.67,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal  Soul Data Engineer, Soul Computing,USD,47083.33,47083.33,United States,Mid,Full-time,Hybrid,Soul Center,Infinite
+2025.0,Data Sovereignty  Logos,Data  Logos,AUD,17083.33,11275.0,Australia,Mid,Contract,Remote,Mount Nebo,Small
+2025.0,Universal  Presence Data Engineer, Presence Computing,USD,47916.67,47916.67,United States,Senior,Full-time,In-person,Presence Universal,Infinite
+2025.0,Junior Data Engineer,Data Engineering,EUR,8750.0,9275.0,Vatican City,Entry,Full-time,Hybrid,Vatican City,Small
+2025.0,Universal  Truth  Specialist, Truth Computing,USD,44583.33,44583.33,United States,Senior,Full-time,In-person,Truth Universal,Infinite
+2025.0,Senior Data Architect,Data Architecture,CHF,20416.67,24366.67,Switzerland,Senior,Full-time,Remote,Zurich,Large
+2025.0,Junior Business Analyst,Business Intelligence, ,7666.67,8125.0,Liechtenstein,Entry,Part-time,In-person,Vaduz,Small
+2025.0, Absolute Being Data Analyst,Absolute Being Computing,USD,47083.33,47083.33,United States,Mid,Full-time,Remote,Being Absolute,Infinite
+2025.0,Universal  Nature Data Architect, Nature Computing,USD,45416.67,45416.67,United States,Senior,Full-time,Hybrid,Nature Universal,Infinite
+2025.0, Perfect Unity Data Specialist,Perfect Unity Computing,USD,47916.67,47916.67,United States,Senior,Full-time,In-person,Unity Perfect,Infinite
+2025.0,Junior Data Scientist,Data Science,EUR,10416.67,11041.67,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal  Wholeness Data Researcher, Wholeness Computing,USD,46250.0,46250.0,United States,Senior,Full-time,Remote,Wholeness Universal,Infinite
+2025.0,Data Scientist,Data Science,USD,12375.0,12375.0,United States Virgin Islands,Entry,Full-time,In-person,Charlotte Amalie,Small
+2025.0,Junior Data Scientist,Data Science,USD,12375.0,12375.0,Puerto Rico,Entry,Full-time,In-person,San Juan,Medium
+2025.0,Machine Learning Engineer,Machine Learning,USD,15416.67,15416.67,American Samoa,Senior,Full-time,Remote,Pago Pago,Small
+2025.0,Eternal  El Shaddai  Engineer,El Shaddai Computing,USD,52083.33,52083.33,United States,Senior,Full-time,Remote,El Shaddai Field,Infinite
+2025.0,Senior Data Analyst,Data Analysis,USD,10416.67,10416.67,Guam,Senior,Full-time,Hybrid,Hagatna,Small
+2025.0,Data Scientist,Data Science,USD,11250.0,11250.0,Northern Mariana Islands,Entry,Full-time,In-person,Saipan,Small
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,11250.0,11925.0,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Machine Learning Engineer,Machine Learning,USD,14583.33,14583.33,Marshall Islands,Mid,Full-time,Remote,Majuro,Small
+2025.0,Senior Data Scientist,Data Science,USD,13750.0,13750.0,Federated States of Micronesia,Senior,Full-time,In-person,Palikir,Small
+2025.0,Data Scientist,Data Science,USD,12916.67,12916.67,Palau,Entry,Full-time,Remote,Ngerulmud,Small
+2025.0,Junior Data Engineer,Data Engineering,EUR,9833.33,10416.67,Vatican City,Entry,Full-time,Hybrid,Vatican City,Small
+2025.0,Machine Learning Engineer,Machine Learning,USD,12083.33,12083.33,Wake Island,Senior,Full-time,In-person,Wake Island,Small
+2025.0,Senior Data Architect,Data Architecture,CHF,22083.33,26358.33,Switzerland,Senior,Full-time,Remote,Geneva,Large
+2025.0,Data Scientist,Data Science,USD,10416.67,10416.67,Johnston Atoll,Entry,Full-time,Hybrid,Johnston Island,Small
+2025.0,Junior Business Analyst,Business Intelligence,EUR,8750.0,9275.0,Liechtenstein,Entry,Part-time,In-person,Vaduz,Small
+2025.0,Machine Learning Engineer,Machine Learning,USD,11250.0,11250.0,Midway Atoll,Mid,Full-time,Remote,Midway Islands,Small
+2025.0,Senior Data Scientist,Data Science,USD,9583.33,9583.33,Baker Island,Senior,Full-time,In-person,Baker Island,Small
+2025.0,Data Scientist,Data Science,USD,8750.0,8750.0,Howland Island,Entry,Full-time,Hybrid,Howland Island,Small
+2025.0,Junior Data Scientist,Data Science,EUR,12083.33,12808.33,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal  Advocate Data Researcher,Advocate Computing,USD,50416.67,50416.67,United States,Senior,Full-time,Remote,Advocate Center,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,USD,7916.67,7916.67,Jarvis Island,Senior,Full-time,In-person,Jarvis Island,Small
+2025.0,Data Science Dominion,Data Dominion Consciousness,CAD,29583.33,21791.67,Canada,Senior,Part-time,Remote,Dominion Throne,Small
+2025.0,Machine Learning Engineer,Machine Learning,USD,7083.33,7083.33,Palmyra Atoll,Mid,Full-time,Hybrid,Palmyra Island,Small
+2025.0,Data Fabric Dominion,Data Dominion Consciousness,GBP,12083.33,15158.33,United Kingdom,Mid,Contract,Remote,Mount Dominion,Small
+2025.0,Machine Learning Engineer,Machine Learning,USD,6250.0,6250.0,Kingman Reef,Senior,Full-time,Remote,Kingman Reef,Small
+2025.0,Junior Data Analyst,Data Analysis,EUR,6833.33,7250.0,Andorra,Entry,Full-time,Remote,Andorra la Vella,Small
+2025.0,Data Scientist,Data Science,USD,4583.33,4583.33,Bajo Nuevo Bank,Entry,Full-time,In-person,Bajo Nuevo Bank,Small
+2025.0,Universal  Ehyeh Asher Ehyeh Engineer,Ehyeh Computing,USD,55416.67,55416.67,United States,Senior,Full-time,Hybrid,Ehyeh Field,Infinite
+2025.0,Junior Data Scientist,Data Science,USD,3750.0,3750.0,Serranilla Bank,Entry,Full-time,In-person,Serranilla Bank,Small
+2025.0,Machine Learning Engineer,Machine Learning,USD,2916.67,2916.67,Scarborough Shoal,Senior,Full-time,Remote,Scarborough Shoal,Small
+2025.0,Omnipresent  Crown Architect, Crown Computing,USD,57916.67,57916.67,United States,Senior,Full-time,Hybrid,Crown Center,Infinite
+2025.0,Eternal  Wisdom  Engineer, Wisdom Computing,USD,56250.0,56250.0,United States,Senior,Full-time,Remote,Wisdom Eternal,Infinite
+2025.0,Senior Data Analyst,Data Analysis,USD,2083.33,2083.33,Spratly Islands,Senior,Full-time,Hybrid,Spratly Islands,Small
+2025.0,Data Scientist,Data Science,USD,1250.0,1250.0,Paracel Islands,Entry,Full-time,In-person,Paracel Islands,Small
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,12916.67,13691.67,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal  Knowledge Data Engineer,Knowledge Computing,USD,55416.67,55416.67,United States,Mid,Full-time,Hybrid,Knowledge Center,Infinite
+2025.0,Machine Learning Engineer,Machine Learning,USD,416.67,416.67,Senkaku Islands,Mid,Full-time,Remote,Senkaku Islands,Small
+2025.0,Universal  Victory Data Engineer,Victory Computing,USD,56250.0,56250.0,United States,Senior,Full-time,In-person,Victory Center,Infinite
+2025.0,Junior Data Engineer,Data Engineering,EUR,11250.0,11925.0,Vatican City,Entry,Full-time,Hybrid,Vatican City,Small
+2025.0,Data Science Principality,Data Principality Consciousness,CAD,31250.0,23025.0,Canada,Senior,Part-time,Remote,Principality Throne,Small
+2025.0,Universal  Splendor  Specialist,Splendor Computing,USD,52916.67,52916.67,United States,Senior,Full-time,In-person,Splendor Universal,Infinite
+2025.0,Senior Data Architect,Data Architecture,CHF,23750.0,28350.0,Switzerland,Senior,Full-time,Remote,Zurich,Large
+2025.0,Junior Business Analyst,Business Intelligence,EUR,9833.33,10416.67,Liechtenstein,Entry,Part-time,In-person,Vaduz,Small
+2025.0, Absolute Sefirot Data Analyst,Sefirot Computing,USD,55416.67,55416.67,United States,Mid,Full-time,Remote,Sefirot Center,Infinite
+2025.0,Universal  Manifestation Data Architect,Manifestation Computing,USD,53750.0,53750.0,United States,Senior,Full-time,Hybrid,Manifestation Center,Infinite
+2025.0,Data Democratization Principality,Data Principality Consciousness,AUD,21500.0,14191.67,Australia,Mid,Contract,Remote,Mount Principality,Small
+2025.0, Perfect Formation Data Specialist,Formation Computing,USD,56250.0,56250.0,United States,Senior,Full-time,In-person,Formation Center,Infinite
+2025.0,Junior Data Scientist,Data Science,EUR,13750.0,14583.33,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal  Making Data Researcher,Making Computing,USD,54583.33,54583.33,United States,Senior,Full-time,Remote,Making Universal,Infinite
+2025.0,Data Science Power,Data Power Consciousness,CAD,32083.33,23641.67,Canada,Senior,Part-time,Remote,Power Throne,Small
+2025.0,Universal  Perfection Algorithm Architect,Perfection Computing,USD,56250.0,56250.0,United States,Senior,Full-time,Remote,Perfection Universal,Infinite
+2025.0,Data Fabric Power,Data Power Consciousness,GBP,12916.67,16208.33,United Kingdom,Mid,Contract,Remote,Mount Power,Small
+2025.0, Absolute Realization Algorithm Engineer,Realization Computing,USD,54583.33,54583.33,United States,Senior,Full-time,Hybrid,Realization Absolute,Infinite
+2025.0,Junior Data Analyst,Data Analysis,EUR,7666.67,8125.0,Andorra,Entry,Full-time,Remote,Andorra la Vella,Small
+2025.0,Universal  Actualization Data Researcher,Actualization Computing,USD,53750.0,53750.0,United States,Mid,Full-time,In-person,Actualization Universal,Infinite
+2025.0,Universal  Pure Being Engineer,Pure Being Computing,USD,59583.33,59583.33,United States,Senior,Full-time,Hybrid,Pure Being Field,Infinite
+2025.0,Omnipresent  Void Architect, Void Computing,USD,62083.33,62083.33,United States,Senior,Full-time,Hybrid,Void Center,Infinite
+2025.0,Eternal  Emptiness  Engineer, Emptiness Computing,USD,60416.67,60416.67,United States,Senior,Full-time,Remote,Emptiness Eternal,Infinite
+2025.0,Junior MLOps Engineer,Machine Learning Operations,EUR,14583.33,15458.33,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal  Silence Data Engineer,Silence Computing,USD,59583.33,59583.33,United States,Mid,Full-time,Hybrid,Silence Center,Infinite
+2025.0,Junior Data Engineer,Data Engineering,EUR,12916.67,13691.67,Vatican City,Entry,Full-time,Hybrid,Vatican City,Small
+2025.0,Data Science Virtue,Data Virtue Consciousness,CAD,32916.67,24258.33,Canada,Senior,Part-time,Remote,Virtue Throne,Small
+2025.0,Universal  Cessation  Specialist,Cessation Computing,USD,57083.33,57083.33,United States,Senior,Full-time,In-person,Cessation Universal,Infinite
+2025.0,Senior Data Architect,Data Architecture,CHF,25416.67,30333.33,Switzerland,Senior,Full-time,Remote,Basel,Large
+2025.0,Junior Business Analyst,Business Intelligence,EUR,11250.0,,Liechtenstein,Entry,Part-time,In-person,Vaduz,Small
+2025.0, Absolute Moksha Data Analyst,Moksha Computing,USD,59583.33,59583.33,United States,Mid,Full-time,Remote,Moksha Absolute,Infinite
+2025.0,Universal  Freedom Data Architect,Freedom Computing,USD,57916.67,57916.67,United States,Senior,Full-time,Hybrid,Freedom Universal,Infinite
+2025.0,Data Democratization Virtue,Data Virtue Consciousness,AUD,23166.67,15291.67,Australia,Mid,Contract,Remote,Mount Virtue,Small
+2025.0,Perfect Surrender Data Specialist,Surrender Computing,USD,60416.67,60416.67,United States,Senior,Full-time,In-person,Surrender Perfect,Infinite
+2025.0,Junior Data Scientist,Data Science,EUR,15416.67,16333.33,Monaco,Entry,Full-time,Remote,Monaco,Small
+2025.0,Universal  Merge Data Researcher,Merge Computing,USD,58750.0,58750.0,United States,Senior,Full-time,Remote,Merge Universal,Infinite
+2025.0,Algorithm Analyst,Unity Computing,USD,57916.67,,United States,Senior,Full-time,Hybrid,Unity Cosmic,Infinite
+2025.0,Data Mesh Product Manager,Product Management,GBP,8166.67,10250.0,United Kingdom,Senior,Full-time,Remote,London,Large
